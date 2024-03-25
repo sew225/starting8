@@ -50,7 +50,7 @@ function Card({ positionData, randomPositionIndex, position, positionNames }) {
         <Modal.Body>
           <h1>
             {" "}
-            {player.Name}: {player.year} season
+            {/* {player.Name}:*/} {player.year} season
           </h1>
           <p>AVG: {player.BA}</p>
           <p>HR: {player.HR}</p>
@@ -84,12 +84,13 @@ function SearchBar(positionData, positionNames, player) {
     checkPlayer(searchTerm);
   };
   function checkPlayer(val) {
-    if (val == player.Name) {
+    if (val.toLowerCase() == player.Name.toLowerCase()) {
       console.log("Correct Guess");
       window.alert("CORRECT");
     } else {
       console.log("Wrong");
       window.alert("INCORRECT");
+      window.alert("player is:" + player.Name);
     }
   }
   return (
