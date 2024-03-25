@@ -35,6 +35,9 @@ function Card({ positionData, randomPositionIndex, position, positionNames }) {
   function showHidden(e) {
     e.target.style.backgroundColor = "white";
   }
+  function givePlayerName() {
+    window.alert("player is:" + player.Name);
+  }
 
   return (
     <>
@@ -97,6 +100,9 @@ function Card({ positionData, randomPositionIndex, position, positionNames }) {
         </Modal.Body>
 
         <Modal.Footer>
+          <Button variant="secondary" onClick={givePlayerName}>
+            Give Up
+          </Button>
           {SearchBar(positionData, positionNames, player)}
           <Button variant="secondary" onClick={handleClose}>
             Close
@@ -125,9 +131,9 @@ function SearchBar(positionData, positionNames, player) {
     } else {
       console.log("Wrong");
       window.alert("INCORRECT");
-      window.alert("player is:" + player.Name);
     }
   }
+
   return (
     <div className="searchBar">
       <div className="app">
