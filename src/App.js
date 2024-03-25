@@ -37,7 +37,7 @@ let randomLeftFieldIndex = randomNumber(leftfieldData);
 let randomCenterFieldIndex = randomNumber(centerfieldData);
 let randomRightLeftIndex = randomNumber(rightfieldData);
 
-function Catcher({ catcherData, catcherNames }) {
+function Catcher({ catcherData }) {
   return (
     <div className="App">
       <Card
@@ -50,7 +50,7 @@ function Catcher({ catcherData, catcherNames }) {
   );
 }
 
-function FirstBase({ firstbaseData, firstbaseNames }) {
+function FirstBase({ firstbaseData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (
@@ -64,7 +64,7 @@ function FirstBase({ firstbaseData, firstbaseNames }) {
     </div>
   );
 }
-function SecondBase({ secondbaseData, secondbaseNames }) {
+function SecondBase({ secondbaseData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (
@@ -79,7 +79,7 @@ function SecondBase({ secondbaseData, secondbaseNames }) {
   );
 }
 
-function ThirdBase({ thirdbaseData, thirdbaseNames }) {
+function ThirdBase({ thirdbaseData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (
@@ -94,7 +94,7 @@ function ThirdBase({ thirdbaseData, thirdbaseNames }) {
   );
 }
 
-function ShortStop({ shortstopData, shortstopNames }) {
+function ShortStop({ shortstopData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (
@@ -109,7 +109,7 @@ function ShortStop({ shortstopData, shortstopNames }) {
   );
 }
 
-function LeftField({ leftfieldData, rightfieldNames }) {
+function LeftField({ leftfieldData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (
@@ -124,7 +124,7 @@ function LeftField({ leftfieldData, rightfieldNames }) {
   );
 }
 
-function CenterField({ centerfieldData, centerfieldNames }) {
+function CenterField({ centerfieldData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (
@@ -139,7 +139,7 @@ function CenterField({ centerfieldData, centerfieldNames }) {
   );
 }
 
-function RightField({ rightfieldData, rightfieldNames }) {
+function RightField({ rightfieldData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (

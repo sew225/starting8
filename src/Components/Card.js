@@ -61,7 +61,7 @@ function Card({ positionData, randomPositionIndex, position, positionNames }) {
         </Modal.Body>
 
         <Modal.Footer>
-          {SearchBar(positionData)}
+          {SearchBar(positionData, positionNames)}
           <Button variant="secondary" onClick={handleClose}>
             Close
           </Button>
@@ -71,7 +71,7 @@ function Card({ positionData, randomPositionIndex, position, positionNames }) {
   );
 }
 
-function SearchBar(positionData) {
+function SearchBar(positionData, positionNames) {
   const [value, setValue] = useState("");
   const onChange = (event) => {
     setValue(event.target.value);
@@ -88,22 +88,26 @@ function SearchBar(positionData) {
         <button onClick={() => onSearch(value)}>Search</button>
       </div>
       <div className="dropDown">
-        {positionNames
-          .filter((item) => {
-            const term = value.toLowerCase();
-            const fullName = (item || "").toLowerCase();
+        {positionNames &&
+          positionNames
+            .filter((item) => {
+              const term = value.toLowerCase();
+              const fullName = (item || "").toLowerCase();
 
-            return (
-              term && fullName && fullName.startsWith(term) && fullName !== term
-            );
-          })
-          .slice(0, 10)
-          .map((item) => (
-            <div onClick={() => onSearch(item)} className="dropdown-row">
-              {" "}
-              {item}
-            </div>
-          ))}
+              return (
+                term &&
+                fullName &&
+                fullName.startsWith(term) &&
+                fullName !== term
+              );
+            })
+            .slice(0, 10)
+            .map((item) => (
+              <div onClick={() => onSearch(item)} className="dropdown-row">
+                {" "}
+                {item}
+              </div>
+            ))}
       </div>
     </div>
   );
