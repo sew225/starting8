@@ -27,11 +27,15 @@ import Modal from "react-bootstrap/Modal";
 
 function Card({ positionData, randomPositionIndex, position, positionNames }) {
   const [show, setShow] = useState(false);
-
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
   // let player = this.props.positionData[this.props.randomPositionIndex];
   let player = positionData[randomPositionIndex];
+
+  function showHidden(e) {
+    e.target.style.backgroundColor = "white";
+  }
+
   return (
     <>
       <button onClick={handleShow}>{position}</button>
@@ -59,6 +63,37 @@ function Card({ positionData, randomPositionIndex, position, positionNames }) {
           <p>SLG: {player.SLG}</p>
           <p>OPS: {player.OPS}</p>
           <p>SB: {player.SB}</p>
+          <p style={{ color: "black" }}>
+            League:{" "}
+            <div
+              className="League"
+              style={{ backgroundColor: "black" }}
+              onClick={showHidden}
+            >
+              {player.League}
+            </div>
+          </p>
+          <p style={{ color: "black" }}>
+            Division:{" "}
+            <div
+              className="Division"
+              style={{ backgroundColor: "black" }}
+              onClick={showHidden}
+            >
+              {player.Division}
+            </div>
+          </p>
+
+          <p style={{ color: "black" }}>
+            Team:{" "}
+            <div
+              className="Team"
+              style={{ backgroundColor: "black" }}
+              onClick={showHidden}
+            >
+              {player.Tm}
+            </div>
+          </p>
         </Modal.Body>
 
         <Modal.Footer>
@@ -106,14 +141,8 @@ function SearchBar(positionData, positionNames, player) {
               const term = value.toLowerCase();
               const fullName = (item || "").toLowerCase();
 
-              return (
-                term &&
-                fullName &&
-                fullName.startsWith(term) &&
-                fullName !== term
-              );
+              return term && fullName && fullName.startsWith(term);
             })
-            .slice(0, 10)
             .map((item) => (
               <div onClick={() => onSearch(item)} className="dropdown-row">
                 {" "}

@@ -29,7 +29,9 @@
         "SF": "3",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2001"
+        "year": "2001",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Orlando\u00a0Cabrera",
@@ -125,7 +127,9 @@
         "SF": "10",
         "IBB": "0",
         "Pos\u00a0Summary": "*6",
-        "year": "2001"
+        "year": "2001",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "\u00c1lex\u00a0Gonz\u00e1lez",
@@ -157,7 +161,9 @@
         "SF": "3",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2001"
+        "year": "2001",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Carlos\u00a0Guill\u00e9n",
@@ -189,7 +195,9 @@
         "SF": "6",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2001"
+        "year": "2001",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Ricky\u00a0Guti\u00e9rrez",
@@ -221,7 +229,9 @@
         "SF": "11",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2001"
+        "year": "2001",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Cristian\u00a0Guzm\u00e1n",
@@ -253,7 +263,9 @@
         "SF": "0",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2001"
+        "year": "2001",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jos\u00e9\u00a0Hern\u00e1ndez",
@@ -285,7 +297,9 @@
         "SF": "4",
         "IBB": "8",
         "Pos\u00a0Summary": "*6/87H",
-        "year": "2001"
+        "year": "2001",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Derek\u00a0Jeter",
@@ -317,7 +331,9 @@
         "SF": "1",
         "IBB": "3",
         "Pos\u00a0Summary": "*6",
-        "year": "2001"
+        "year": "2001",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Julio\u00a0Lugo",
@@ -349,7 +365,9 @@
         "SF": "7",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H749",
-        "year": "2001"
+        "year": "2001",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Rey\u00a0Ord\u00f3\u00f1ez",
@@ -381,7 +399,9 @@
         "SF": "2",
         "IBB": "17",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2001"
+        "year": "2001",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Neifi\u00a0P\u00e9rez",
@@ -445,7 +465,9 @@
         "SF": "6",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H3D",
-        "year": "2001"
+        "year": "2001",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Alex\u00a0Rodriguez",
@@ -477,7 +499,9 @@
         "SF": "9",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2001"
+        "year": "2001",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Jimmy\u00a0Rollins",
@@ -509,7 +533,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2001"
+        "year": "2001",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Rey\u00a0S\u00e1nchez",
@@ -573,7 +599,9 @@
         "SF": "4",
         "IBB": "5",
         "Pos\u00a0Summary": "*6",
-        "year": "2001"
+        "year": "2001",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Omar\u00a0Vizquel",
@@ -605,7 +633,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2001"
+        "year": "2001",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Tony\u00a0Womack",
@@ -637,7 +667,9 @@
         "SF": "1",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H8",
-        "year": "2001"
+        "year": "2001",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Rich\u00a0Aurilia",
@@ -669,7 +701,9 @@
         "SF": "7",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2002"
+        "year": "2002",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Orlando\u00a0Cabrera",
@@ -733,7 +767,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H3",
-        "year": "2002"
+        "year": "2002",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "David\u00a0Eckstein",
@@ -797,7 +833,9 @@
         "SF": "3",
         "IBB": "6",
         "Pos\u00a0Summary": "*6H/459",
-        "year": "2002"
+        "year": "2002",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Rafael\u00a0Furcal",
@@ -829,7 +867,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/4H",
-        "year": "2002"
+        "year": "2002",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Nomar\u00a0Garciaparra",
@@ -861,7 +901,9 @@
         "SF": "11",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2002"
+        "year": "2002",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Alex\u00a0Gonzalez",
@@ -893,7 +935,9 @@
         "SF": "2",
         "IBB": "7",
         "Pos\u00a0Summary": "*6",
-        "year": "2002"
+        "year": "2002",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Carlos\u00a0Guill\u00e9n",
@@ -925,7 +969,9 @@
         "SF": "3",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2002"
+        "year": "2002",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Cristian\u00a0Guzm\u00e1n",
@@ -957,7 +1003,9 @@
         "SF": "6",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2002"
+        "year": "2002",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jos\u00e9\u00a0Hern\u00e1ndez",
@@ -989,7 +1037,9 @@
         "SF": "1",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2002"
+        "year": "2002",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Derek\u00a0Jeter",
@@ -1021,7 +1071,9 @@
         "SF": "3",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2002"
+        "year": "2002",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Barry\u00a0Larkin",
@@ -1053,7 +1105,9 @@
         "SF": "7",
         "IBB": "9",
         "Pos\u00a0Summary": "*6H",
-        "year": "2002"
+        "year": "2002",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Neifi\u00a0P\u00e9rez",
@@ -1085,7 +1139,9 @@
         "SF": "6",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/4H",
-        "year": "2002"
+        "year": "2002",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "\u00c9dgar\u00a0Renter\u00eda",
@@ -1117,7 +1173,9 @@
         "SF": "5",
         "IBB": "7",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2002"
+        "year": "2002",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Alex\u00a0Rodriguez",
@@ -1149,7 +1207,9 @@
         "SF": "4",
         "IBB": "12",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2002"
+        "year": "2002",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Jimmy\u00a0Rollins",
@@ -1181,7 +1241,9 @@
         "SF": "4",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H4",
-        "year": "2002"
+        "year": "2002",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Miguel\u00a0Tejada",
@@ -1213,7 +1275,9 @@
         "SF": "4",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2002"
+        "year": "2002",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Juan\u00a0Uribe",
@@ -1245,7 +1309,9 @@
         "SF": "6",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2002"
+        "year": "2002",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Omar\u00a0Vizquel",
@@ -1277,7 +1343,9 @@
         "SF": "10",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2002"
+        "year": "2002",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jack\u00a0Wilson",
@@ -1309,7 +1377,9 @@
         "SF": "1",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2002"
+        "year": "2002",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Tony\u00a0Womack",
@@ -1341,7 +1411,9 @@
         "SF": "6",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H9",
-        "year": "2002"
+        "year": "2002",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Rich\u00a0Aurilia",
@@ -1373,7 +1445,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2003"
+        "year": "2003",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "\u00c1ngel\u00a0Berroa",
@@ -1405,7 +1479,9 @@
         "SF": "8",
         "IBB": "3",
         "Pos\u00a0Summary": "*6",
-        "year": "2003"
+        "year": "2003",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Orlando\u00a0Cabrera",
@@ -1469,7 +1545,9 @@
         "SF": "4",
         "IBB": "10",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2003"
+        "year": "2003",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Deivi\u00a0Cruz",
@@ -1501,7 +1579,9 @@
         "SF": "2",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2003"
+        "year": "2003",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "David\u00a0Eckstein",
@@ -1565,7 +1645,9 @@
         "SF": "4",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2003"
+        "year": "2003",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Nomar\u00a0Garciaparra",
@@ -1597,7 +1679,9 @@
         "SF": "10",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2003"
+        "year": "2003",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Alex\u00a0Gonzalez",
@@ -1629,7 +1713,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2003"
+        "year": "2003",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "\u00c1lex\u00a0Gonz\u00e1lez",
@@ -1661,7 +1747,9 @@
         "SF": "5",
         "IBB": "13",
         "Pos\u00a0Summary": "*6",
-        "year": "2003"
+        "year": "2003",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Cristian\u00a0Guzm\u00e1n",
@@ -1693,7 +1781,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2003"
+        "year": "2003",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "C\u00e9sar\u00a0Izturis",
@@ -1725,7 +1815,9 @@
         "SF": "3",
         "IBB": "8",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2003"
+        "year": "2003",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Derek\u00a0Jeter",
@@ -1757,7 +1849,9 @@
         "SF": "1",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2003"
+        "year": "2003",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Julio\u00a0Lugo",
@@ -1821,7 +1915,9 @@
         "SF": "7",
         "IBB": "12",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2003"
+        "year": "2003",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Alex\u00a0Rodriguez",
@@ -1853,7 +1949,9 @@
         "SF": "6",
         "IBB": "10",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2003"
+        "year": "2003",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Jimmy\u00a0Rollins",
@@ -1885,7 +1983,9 @@
         "SF": "2",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2003"
+        "year": "2003",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Miguel\u00a0Tejada",
@@ -1917,7 +2017,9 @@
         "SF": "8",
         "IBB": "7",
         "Pos\u00a0Summary": "*6",
-        "year": "2003"
+        "year": "2003",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Jos\u00e9\u00a0Valent\u00edn",
@@ -1949,7 +2051,9 @@
         "SF": "2",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2003"
+        "year": "2003",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jack\u00a0Wilson",
@@ -1981,7 +2085,9 @@
         "SF": "6",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2003"
+        "year": "2003",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "\u00c1ngel\u00a0Berroa",
@@ -2013,7 +2119,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2004"
+        "year": "2004",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Orlando\u00a0Cabrera",
@@ -2077,7 +2185,9 @@
         "SF": "4",
         "IBB": "2",
         "Pos\u00a0Summary": "*64/H5",
-        "year": "2004"
+        "year": "2004",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Royce\u00a0Clayton",
@@ -2109,7 +2219,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2004"
+        "year": "2004",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Craig\u00a0Counsell",
@@ -2141,7 +2253,9 @@
         "SF": "3",
         "IBB": "9",
         "Pos\u00a0Summary": "*6H/5",
-        "year": "2004"
+        "year": "2004",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Bobby\u00a0Crosby",
@@ -2173,7 +2287,9 @@
         "SF": "6",
         "IBB": "0",
         "Pos\u00a0Summary": "*6",
-        "year": "2004"
+        "year": "2004",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "David\u00a0Eckstein",
@@ -2237,7 +2353,9 @@
         "SF": "5",
         "IBB": "4",
         "Pos\u00a0Summary": "*6H/4",
-        "year": "2004"
+        "year": "2004",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "\u00c1lex\u00a0Gonz\u00e1lez",
@@ -2269,7 +2387,9 @@
         "SF": "4",
         "IBB": "9",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2004"
+        "year": "2004",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Khalil\u00a0Greene",
@@ -2301,7 +2421,9 @@
         "SF": "8",
         "IBB": "10",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2004"
+        "year": "2004",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Carlos\u00a0Guill\u00e9n",
@@ -2333,7 +2455,9 @@
         "SF": "4",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2004"
+        "year": "2004",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Cristian\u00a0Guzm\u00e1n",
@@ -2365,7 +2489,9 @@
         "SF": "4",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2004"
+        "year": "2004",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "C\u00e9sar\u00a0Izturis",
@@ -2397,7 +2523,9 @@
         "SF": "3",
         "IBB": "2",
         "Pos\u00a0Summary": "*6",
-        "year": "2004"
+        "year": "2004",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Derek\u00a0Jeter",
@@ -2429,7 +2557,9 @@
         "SF": "2",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2004"
+        "year": "2004",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Julio\u00a0Lugo",
@@ -2493,7 +2623,9 @@
         "SF": "2",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/4H",
-        "year": "2004"
+        "year": "2004",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "\u00c9dgar\u00a0Renter\u00eda",
@@ -2525,7 +2657,9 @@
         "SF": "10",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2004"
+        "year": "2004",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Jimmy\u00a0Rollins",
@@ -2557,7 +2691,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6",
-        "year": "2004"
+        "year": "2004",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Miguel\u00a0Tejada",
@@ -2589,7 +2725,9 @@
         "SF": "14",
         "IBB": "6",
         "Pos\u00a0Summary": "*6",
-        "year": "2004"
+        "year": "2004",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Jos\u00e9\u00a0Valent\u00edn",
@@ -2621,7 +2759,9 @@
         "SF": "2",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2004"
+        "year": "2004",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Omar\u00a0Vizquel",
@@ -2653,7 +2793,9 @@
         "SF": "6",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2004"
+        "year": "2004",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jack\u00a0Wilson",
@@ -2685,7 +2827,9 @@
         "SF": "5",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2004"
+        "year": "2004",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Michael\u00a0Young",
@@ -2717,7 +2861,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2004"
+        "year": "2004",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Russ\u00a0Adams",
@@ -2749,7 +2895,9 @@
         "SF": "8",
         "IBB": "1",
         "Pos\u00a0Summary": "*6H",
-        "year": "2005"
+        "year": "2005",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "\u00c1ngel\u00a0Berroa",
@@ -2781,7 +2929,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6",
-        "year": "2005"
+        "year": "2005",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Orlando\u00a0Cabrera",
@@ -2813,7 +2963,9 @@
         "SF": "2",
         "IBB": "4",
         "Pos\u00a0Summary": "*6",
-        "year": "2005"
+        "year": "2005",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Royce\u00a0Clayton",
@@ -2845,7 +2997,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2005"
+        "year": "2005",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "David\u00a0Eckstein",
@@ -2877,7 +3031,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2005"
+        "year": "2005",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Adam\u00a0Everett",
@@ -2909,7 +3065,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2005"
+        "year": "2005",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Rafael\u00a0Furcal",
@@ -2941,7 +3099,9 @@
         "SF": "5",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2005"
+        "year": "2005",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Derek\u00a0Jeter",
@@ -2973,7 +3133,9 @@
         "SF": "3",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2005"
+        "year": "2005",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Felipe\u00a0L\u00f3pez",
@@ -3005,7 +3167,9 @@
         "SF": "7",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/4H5",
-        "year": "2005"
+        "year": "2005",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Julio\u00a0Lugo",
@@ -3069,7 +3233,9 @@
         "SF": "4",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2005"
+        "year": "2005",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Neifi\u00a0P\u00e9rez",
@@ -3101,7 +3267,9 @@
         "SF": "4",
         "IBB": "3",
         "Pos\u00a0Summary": "*64/H5",
-        "year": "2005"
+        "year": "2005",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "\u00c9dgar\u00a0Renter\u00eda",
@@ -3133,7 +3301,9 @@
         "SF": "5",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2005"
+        "year": "2005",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Jos\u00e9\u00a0Reyes",
@@ -3165,7 +3335,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2005"
+        "year": "2005",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jimmy\u00a0Rollins",
@@ -3197,7 +3369,9 @@
         "SF": "2",
         "IBB": "8",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2005"
+        "year": "2005",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Miguel\u00a0Tejada",
@@ -3229,7 +3403,9 @@
         "SF": "3",
         "IBB": "9",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2005"
+        "year": "2005",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Juan\u00a0Uribe",
@@ -3261,7 +3437,9 @@
         "SF": "10",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2005"
+        "year": "2005",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Omar\u00a0Vizquel",
@@ -3293,7 +3471,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2005"
+        "year": "2005",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Jack\u00a0Wilson",
@@ -3325,7 +3505,9 @@
         "SF": "4",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2005"
+        "year": "2005",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Michael\u00a0Young",
@@ -3357,7 +3539,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2005"
+        "year": "2005",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Clint\u00a0Barmes",
@@ -3389,7 +3573,9 @@
         "SF": "7",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/H4",
-        "year": "2006"
+        "year": "2006",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "\u00c1ngel\u00a0Berroa",
@@ -3421,7 +3607,9 @@
         "SF": "3",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2006"
+        "year": "2006",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Yuniesky\u00a0Betancourt",
@@ -3453,7 +3641,9 @@
         "SF": "1",
         "IBB": "0",
         "Pos\u00a0Summary": "*6",
-        "year": "2006"
+        "year": "2006",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Orlando\u00a0Cabrera",
@@ -3485,7 +3675,9 @@
         "SF": "11",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2006"
+        "year": "2006",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Ronny\u00a0Cede\u00f1o",
@@ -3517,7 +3709,9 @@
         "SF": "3",
         "IBB": "4",
         "Pos\u00a0Summary": "*64/H",
-        "year": "2006"
+        "year": "2006",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Royce\u00a0Clayton",
@@ -3581,7 +3775,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2006"
+        "year": "2006",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Adam\u00a0Everett",
@@ -3613,7 +3809,9 @@
         "SF": "4",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2006"
+        "year": "2006",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Rafael\u00a0Furcal",
@@ -3645,7 +3843,9 @@
         "SF": "3",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2006"
+        "year": "2006",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Carlos\u00a0Guill\u00e9n",
@@ -3677,7 +3877,9 @@
         "SF": "4",
         "IBB": "10",
         "Pos\u00a0Summary": "*6/3DH",
-        "year": "2006"
+        "year": "2006",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Bill\u00a0Hall",
@@ -3709,7 +3911,9 @@
         "SF": "4",
         "IBB": "6",
         "Pos\u00a0Summary": "*65/8H4",
-        "year": "2006"
+        "year": "2006",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Derek\u00a0Jeter",
@@ -3741,7 +3945,9 @@
         "SF": "4",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2006"
+        "year": "2006",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Felipe\u00a0L\u00f3pez",
@@ -3805,7 +4011,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2006"
+        "year": "2006",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Hanley\u00a0Ram\u00edrez",
@@ -3837,7 +4045,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2006"
+        "year": "2006",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "\u00c9dgar\u00a0Renter\u00eda",
@@ -3869,7 +4079,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2006"
+        "year": "2006",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jos\u00e9\u00a0Reyes",
@@ -3901,7 +4113,9 @@
         "SF": "0",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2006"
+        "year": "2006",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jimmy\u00a0Rollins",
@@ -3933,7 +4147,9 @@
         "SF": "7",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2006"
+        "year": "2006",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Miguel\u00a0Tejada",
@@ -3965,7 +4181,9 @@
         "SF": "6",
         "IBB": "10",
         "Pos\u00a0Summary": "*6D",
-        "year": "2006"
+        "year": "2006",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Omar\u00a0Vizquel",
@@ -3997,7 +4215,9 @@
         "SF": "5",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2006"
+        "year": "2006",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Jack\u00a0Wilson",
@@ -4029,7 +4249,9 @@
         "SF": "5",
         "IBB": "0",
         "Pos\u00a0Summary": "*6H",
-        "year": "2006"
+        "year": "2006",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Michael\u00a0Young",
@@ -4061,7 +4283,9 @@
         "SF": "8",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2006"
+        "year": "2006",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Jason\u00a0Bartlett",
@@ -4093,7 +4317,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2007"
+        "year": "2007",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Yuniesky\u00a0Betancourt",
@@ -4125,7 +4351,9 @@
         "SF": "4",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2007"
+        "year": "2007",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Orlando\u00a0Cabrera",
@@ -4157,7 +4385,9 @@
         "SF": "11",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2007"
+        "year": "2007",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Stephen\u00a0Drew",
@@ -4189,7 +4419,9 @@
         "SF": "8",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2007"
+        "year": "2007",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Rafael\u00a0Furcal",
@@ -4221,7 +4453,9 @@
         "SF": "3",
         "IBB": "3",
         "Pos\u00a0Summary": "*6",
-        "year": "2007"
+        "year": "2007",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Khalil\u00a0Greene",
@@ -4253,7 +4487,9 @@
         "SF": "11",
         "IBB": "3",
         "Pos\u00a0Summary": "*6",
-        "year": "2007"
+        "year": "2007",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Carlos\u00a0Guill\u00e9n",
@@ -4285,7 +4521,9 @@
         "SF": "8",
         "IBB": "10",
         "Pos\u00a0Summary": "*63/HD",
-        "year": "2007"
+        "year": "2007",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "J.J.\u00a0Hardy",
@@ -4317,7 +4555,9 @@
         "SF": "1",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2007"
+        "year": "2007",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Derek\u00a0Jeter",
@@ -4349,7 +4589,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2007"
+        "year": "2007",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Felipe\u00a0L\u00f3pez",
@@ -4381,7 +4623,9 @@
         "SF": "6",
         "IBB": "1",
         "Pos\u00a0Summary": "*64/H",
-        "year": "2007"
+        "year": "2007",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Julio\u00a0Lugo",
@@ -4413,7 +4657,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2007"
+        "year": "2007",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Tony\u00a0Pe\u00f1a",
@@ -4445,7 +4691,9 @@
         "SF": "5",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H4D",
-        "year": "2007"
+        "year": "2007",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jhonny\u00a0Peralta",
@@ -4477,7 +4725,9 @@
         "SF": "7",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2007"
+        "year": "2007",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Hanley\u00a0Ram\u00edrez",
@@ -4509,7 +4759,9 @@
         "SF": "4",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2007"
+        "year": "2007",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "\u00c9dgar\u00a0Renter\u00eda",
@@ -4541,7 +4793,9 @@
         "SF": "0",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2007"
+        "year": "2007",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jos\u00e9\u00a0Reyes",
@@ -4573,7 +4827,9 @@
         "SF": "1",
         "IBB": "13",
         "Pos\u00a0Summary": "*6",
-        "year": "2007"
+        "year": "2007",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jimmy\u00a0Rollins",
@@ -4605,7 +4861,9 @@
         "SF": "6",
         "IBB": "5",
         "Pos\u00a0Summary": "*6",
-        "year": "2007"
+        "year": "2007",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Miguel\u00a0Tejada",
@@ -4637,7 +4895,9 @@
         "SF": "3",
         "IBB": "9",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2007"
+        "year": "2007",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Troy\u00a0Tulowitzki",
@@ -4669,7 +4929,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6",
-        "year": "2007"
+        "year": "2007",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Juan\u00a0Uribe",
@@ -4701,7 +4963,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6",
-        "year": "2007"
+        "year": "2007",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Omar\u00a0Vizquel",
@@ -4733,7 +4997,9 @@
         "SF": "3",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2007"
+        "year": "2007",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Jack\u00a0Wilson",
@@ -4765,7 +5031,9 @@
         "SF": "7",
         "IBB": "9",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2007"
+        "year": "2007",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Michael\u00a0Young",
@@ -4797,7 +5065,9 @@
         "SF": "1",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2007"
+        "year": "2007",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Yuniesky\u00a0Betancourt",
@@ -4829,7 +5099,9 @@
         "SF": "6",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2008"
+        "year": "2008",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Orlando\u00a0Cabrera",
@@ -4861,7 +5133,9 @@
         "SF": "9",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2008"
+        "year": "2008",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Bobby\u00a0Crosby",
@@ -4893,7 +5167,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2008"
+        "year": "2008",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Stephen\u00a0Drew",
@@ -4925,7 +5201,9 @@
         "SF": "7",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2008"
+        "year": "2008",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Yunel\u00a0Escobar",
@@ -4957,7 +5235,9 @@
         "SF": "2",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2008"
+        "year": "2008",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Cristian\u00a0Guzm\u00e1n",
@@ -4989,7 +5269,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2008"
+        "year": "2008",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "J.J.\u00a0Hardy",
@@ -5021,7 +5303,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2008"
+        "year": "2008",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Derek\u00a0Jeter",
@@ -5053,7 +5337,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2008"
+        "year": "2008",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Jhonny\u00a0Peralta",
@@ -5085,7 +5371,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/DH5",
-        "year": "2008"
+        "year": "2008",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Hanley\u00a0Ram\u00edrez",
@@ -5117,7 +5405,9 @@
         "SF": "4",
         "IBB": "9",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2008"
+        "year": "2008",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "\u00c9dgar\u00a0Renter\u00eda",
@@ -5149,7 +5439,9 @@
         "SF": "5",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2008"
+        "year": "2008",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jos\u00e9\u00a0Reyes",
@@ -5181,7 +5473,9 @@
         "SF": "3",
         "IBB": "8",
         "Pos\u00a0Summary": "*6",
-        "year": "2008"
+        "year": "2008",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jimmy\u00a0Rollins",
@@ -5213,7 +5507,9 @@
         "SF": "3",
         "IBB": "7",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2008"
+        "year": "2008",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Miguel\u00a0Tejada",
@@ -5245,7 +5541,9 @@
         "SF": "3",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2008"
+        "year": "2008",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Ryan\u00a0Theriot",
@@ -5277,7 +5575,9 @@
         "SF": "1",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2008"
+        "year": "2008",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Michael\u00a0Young",
@@ -5309,7 +5609,9 @@
         "SF": "6",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2008"
+        "year": "2008",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Elvis\u00a0Andrus",
@@ -5341,7 +5643,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2009"
+        "year": "2009",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Erick\u00a0Aybar",
@@ -5373,7 +5677,9 @@
         "SF": "5",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2009"
+        "year": "2009",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Jason\u00a0Bartlett",
@@ -5405,7 +5711,9 @@
         "SF": "4",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2009"
+        "year": "2009",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Yuniesky\u00a0Betancourt",
@@ -5501,7 +5809,9 @@
         "SF": "7",
         "IBB": "7",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2009"
+        "year": "2009",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Yunel\u00a0Escobar",
@@ -5533,7 +5843,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2009"
+        "year": "2009",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Rafael\u00a0Furcal",
@@ -5565,7 +5877,9 @@
         "SF": "2",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2009"
+        "year": "2009",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Cristian\u00a0Guzm\u00e1n",
@@ -5597,7 +5911,9 @@
         "SF": "1",
         "IBB": "0",
         "Pos\u00a0Summary": "*6H/D",
-        "year": "2009"
+        "year": "2009",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Derek\u00a0Jeter",
@@ -5629,7 +5945,9 @@
         "SF": "1",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2009"
+        "year": "2009",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Alexei\u00a0Ram\u00edrez",
@@ -5661,7 +5979,9 @@
         "SF": "8",
         "IBB": "3",
         "Pos\u00a0Summary": "*6",
-        "year": "2009"
+        "year": "2009",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Hanley\u00a0Ram\u00edrez",
@@ -5693,7 +6013,9 @@
         "SF": "5",
         "IBB": "14",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2009"
+        "year": "2009",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "\u00c9dgar\u00a0Renter\u00eda",
@@ -5725,7 +6047,9 @@
         "SF": "5",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2009"
+        "year": "2009",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Jimmy\u00a0Rollins",
@@ -5757,7 +6081,9 @@
         "SF": "5",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2009"
+        "year": "2009",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Marco\u00a0Scutaro",
@@ -5789,7 +6115,9 @@
         "SF": "7",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/4D",
-        "year": "2009"
+        "year": "2009",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Miguel\u00a0Tejada",
@@ -5821,7 +6149,9 @@
         "SF": "8",
         "IBB": "2",
         "Pos\u00a0Summary": "*6",
-        "year": "2009"
+        "year": "2009",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Ryan\u00a0Theriot",
@@ -5853,7 +6183,9 @@
         "SF": "5",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2009"
+        "year": "2009",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Troy\u00a0Tulowitzki",
@@ -5885,7 +6217,9 @@
         "SF": "9",
         "IBB": "4",
         "Pos\u00a0Summary": "*6",
-        "year": "2009"
+        "year": "2009",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Elvis\u00a0Andrus",
@@ -5917,7 +6251,9 @@
         "SF": "0",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2010"
+        "year": "2010",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Erick\u00a0Aybar",
@@ -5949,7 +6285,9 @@
         "SF": "2",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2010"
+        "year": "2010",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Jason\u00a0Bartlett",
@@ -5981,7 +6319,9 @@
         "SF": "3",
         "IBB": "1",
         "Pos\u00a0Summary": "*6H/D",
-        "year": "2010"
+        "year": "2010",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Yuniesky\u00a0Betancourt",
@@ -6013,7 +6353,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2010"
+        "year": "2010",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Orlando\u00a0Cabrera",
@@ -6045,7 +6387,9 @@
         "SF": "7",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2010"
+        "year": "2010",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Starlin\u00a0Castro",
@@ -6077,7 +6421,9 @@
         "SF": "4",
         "IBB": "7",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2010"
+        "year": "2010",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Ronny\u00a0Cede\u00f1o",
@@ -6109,7 +6455,9 @@
         "SF": "2",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2010"
+        "year": "2010",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Ian\u00a0Desmond",
@@ -6141,7 +6489,9 @@
         "SF": "7",
         "IBB": "3",
         "Pos\u00a0Summary": "*6H/9",
-        "year": "2010"
+        "year": "2010",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Stephen\u00a0Drew",
@@ -6173,7 +6523,9 @@
         "SF": "1",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2010"
+        "year": "2010",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Alcides\u00a0Escobar",
@@ -6205,7 +6557,9 @@
         "SF": "3",
         "IBB": "7",
         "Pos\u00a0Summary": "*6/H798",
-        "year": "2010"
+        "year": "2010",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Yunel\u00a0Escobar",
@@ -6301,7 +6655,9 @@
         "SF": "2",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2010"
+        "year": "2010",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Derek\u00a0Jeter",
@@ -6333,7 +6689,9 @@
         "SF": "3",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2010"
+        "year": "2010",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Cliff\u00a0Pennington",
@@ -6365,7 +6723,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2010"
+        "year": "2010",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Alexei\u00a0Ram\u00edrez",
@@ -6397,7 +6757,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2010"
+        "year": "2010",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Hanley\u00a0Ram\u00edrez",
@@ -6429,7 +6791,9 @@
         "SF": "5",
         "IBB": "12",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2010"
+        "year": "2010",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jos\u00e9\u00a0Reyes",
@@ -6461,7 +6825,9 @@
         "SF": "3",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2010"
+        "year": "2010",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Marco\u00a0Scutaro",
@@ -6493,7 +6859,9 @@
         "SF": "3",
         "IBB": "1",
         "Pos\u00a0Summary": "*64/H",
-        "year": "2010"
+        "year": "2010",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Troy\u00a0Tulowitzki",
@@ -6525,7 +6893,9 @@
         "SF": "5",
         "IBB": "4",
         "Pos\u00a0Summary": "*6",
-        "year": "2010"
+        "year": "2010",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Elvis\u00a0Andrus",
@@ -6557,7 +6927,9 @@
         "SF": "1",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2011"
+        "year": "2011",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Erick\u00a0Aybar",
@@ -6589,7 +6961,9 @@
         "SF": "3",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2011"
+        "year": "2011",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Jason\u00a0Bartlett",
@@ -6621,7 +6995,9 @@
         "SF": "6",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2011"
+        "year": "2011",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Yuniesky\u00a0Betancourt",
@@ -6653,7 +7029,9 @@
         "SF": "10",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2011"
+        "year": "2011",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Asdr\u00fabal\u00a0Cabrera",
@@ -6685,7 +7063,9 @@
         "SF": "4",
         "IBB": "5",
         "Pos\u00a0Summary": "*6",
-        "year": "2011"
+        "year": "2011",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Starlin\u00a0Castro",
@@ -6717,7 +7097,9 @@
         "SF": "4",
         "IBB": "2",
         "Pos\u00a0Summary": "*6",
-        "year": "2011"
+        "year": "2011",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Ian\u00a0Desmond",
@@ -6749,7 +7131,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2011"
+        "year": "2011",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Alcides\u00a0Escobar",
@@ -6781,7 +7165,9 @@
         "SF": "3",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2011"
+        "year": "2011",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Yunel\u00a0Escobar",
@@ -6813,7 +7199,9 @@
         "SF": "5",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2011"
+        "year": "2011",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "\u00c1lex\u00a0Gonz\u00e1lez",
@@ -6845,7 +7233,9 @@
         "SF": "2",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2011"
+        "year": "2011",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "J.J.\u00a0Hardy",
@@ -6877,7 +7267,9 @@
         "SF": "5",
         "IBB": "3",
         "Pos\u00a0Summary": "*6",
-        "year": "2011"
+        "year": "2011",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Derek\u00a0Jeter",
@@ -6909,7 +7301,9 @@
         "SF": "5",
         "IBB": "0",
         "Pos\u00a0Summary": "*6D",
-        "year": "2011"
+        "year": "2011",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Cliff\u00a0Pennington",
@@ -6941,7 +7335,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2011"
+        "year": "2011",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Jhonny\u00a0Peralta",
@@ -6973,7 +7369,9 @@
         "SF": "9",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H3",
-        "year": "2011"
+        "year": "2011",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Alexei\u00a0Ram\u00edrez",
@@ -7005,7 +7403,9 @@
         "SF": "5",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2011"
+        "year": "2011",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jos\u00e9\u00a0Reyes",
@@ -7037,7 +7437,9 @@
         "SF": "4",
         "IBB": "9",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2011"
+        "year": "2011",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jimmy\u00a0Rollins",
@@ -7069,7 +7471,9 @@
         "SF": "3",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2011"
+        "year": "2011",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Troy\u00a0Tulowitzki",
@@ -7101,7 +7505,9 @@
         "SF": "5",
         "IBB": "12",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2011"
+        "year": "2011",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Elvis\u00a0Andrus",
@@ -7133,7 +7539,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2012"
+        "year": "2012",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Mike\u00a0Aviles",
@@ -7165,7 +7573,9 @@
         "SF": "6",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/DH45",
-        "year": "2012"
+        "year": "2012",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Erick\u00a0Aybar",
@@ -7197,7 +7607,9 @@
         "SF": "2",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2012"
+        "year": "2012",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Asdr\u00fabal\u00a0Cabrera",
@@ -7229,7 +7641,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2012"
+        "year": "2012",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Starlin\u00a0Castro",
@@ -7261,7 +7675,9 @@
         "SF": "5",
         "IBB": "5",
         "Pos\u00a0Summary": "*6",
-        "year": "2012"
+        "year": "2012",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Zack\u00a0Cozart",
@@ -7293,7 +7709,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2012"
+        "year": "2012",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Ian\u00a0Desmond",
@@ -7325,7 +7743,9 @@
         "SF": "1",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2012"
+        "year": "2012",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Alcides\u00a0Escobar",
@@ -7357,7 +7777,9 @@
         "SF": "0",
         "IBB": "2",
         "Pos\u00a0Summary": "*6",
-        "year": "2012"
+        "year": "2012",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Yunel\u00a0Escobar",
@@ -7389,7 +7811,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2012"
+        "year": "2012",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Rafael\u00a0Furcal",
@@ -7421,7 +7845,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2012"
+        "year": "2012",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "J.J.\u00a0Hardy",
@@ -7453,7 +7879,9 @@
         "SF": "2",
         "IBB": "4",
         "Pos\u00a0Summary": "*6",
-        "year": "2012"
+        "year": "2012",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Derek\u00a0Jeter",
@@ -7485,7 +7913,9 @@
         "SF": "1",
         "IBB": "1",
         "Pos\u00a0Summary": "*6D",
-        "year": "2012"
+        "year": "2012",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Jhonny\u00a0Peralta",
@@ -7517,7 +7947,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2012"
+        "year": "2012",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Alexei\u00a0Ram\u00edrez",
@@ -7549,7 +7981,9 @@
         "SF": "4",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2012"
+        "year": "2012",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jos\u00e9\u00a0Reyes",
@@ -7581,7 +8015,9 @@
         "SF": "6",
         "IBB": "9",
         "Pos\u00a0Summary": "*6",
-        "year": "2012"
+        "year": "2012",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jimmy\u00a0Rollins",
@@ -7613,7 +8049,9 @@
         "SF": "3",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2012"
+        "year": "2012",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Elvis\u00a0Andrus",
@@ -7645,7 +8083,9 @@
         "SF": "6",
         "IBB": "1",
         "Pos\u00a0Summary": "*6D/H",
-        "year": "2013"
+        "year": "2013",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Erick\u00a0Aybar",
@@ -7677,7 +8117,9 @@
         "SF": "5",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2013"
+        "year": "2013",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Asdr\u00fabal\u00a0Cabrera",
@@ -7709,7 +8151,9 @@
         "SF": "5",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2013"
+        "year": "2013",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Starlin\u00a0Castro",
@@ -7741,7 +8185,9 @@
         "SF": "1",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2013"
+        "year": "2013",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Zack\u00a0Cozart",
@@ -7773,7 +8219,9 @@
         "SF": "10",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2013"
+        "year": "2013",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Brandon\u00a0Crawford",
@@ -7805,7 +8253,9 @@
         "SF": "3",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2013"
+        "year": "2013",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Ian\u00a0Desmond",
@@ -7837,7 +8287,9 @@
         "SF": "5",
         "IBB": "3",
         "Pos\u00a0Summary": "*6",
-        "year": "2013"
+        "year": "2013",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Alcides\u00a0Escobar",
@@ -7869,7 +8321,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2013"
+        "year": "2013",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Yunel\u00a0Escobar",
@@ -7901,7 +8355,9 @@
         "SF": "4",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2013"
+        "year": "2013",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "J.J.\u00a0Hardy",
@@ -7933,7 +8389,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6",
-        "year": "2013"
+        "year": "2013",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Adeiny\u00a0Hechavarr\u00eda",
@@ -7965,7 +8423,9 @@
         "SF": "1",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2013"
+        "year": "2013",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jed\u00a0Lowrie",
@@ -7997,7 +8457,9 @@
         "SF": "4",
         "IBB": "3",
         "Pos\u00a0Summary": "*64D/H",
-        "year": "2013"
+        "year": "2013",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Alexei\u00a0Ram\u00edrez",
@@ -8029,7 +8491,9 @@
         "SF": "4",
         "IBB": "2",
         "Pos\u00a0Summary": "*6",
-        "year": "2013"
+        "year": "2013",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jimmy\u00a0Rollins",
@@ -8061,7 +8525,9 @@
         "SF": "3",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2013"
+        "year": "2013",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jean\u00a0Segura",
@@ -8093,7 +8559,9 @@
         "SF": "2",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2013"
+        "year": "2013",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Andrelton\u00a0Simmons",
@@ -8125,7 +8593,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2013"
+        "year": "2013",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Troy\u00a0Tulowitzki",
@@ -8157,7 +8627,9 @@
         "SF": "5",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2013"
+        "year": "2013",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Elvis\u00a0Andrus",
@@ -8189,7 +8661,9 @@
         "SF": "7",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2014"
+        "year": "2014",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Erick\u00a0Aybar",
@@ -8221,7 +8695,9 @@
         "SF": "8",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2014"
+        "year": "2014",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Starlin\u00a0Castro",
@@ -8253,7 +8729,9 @@
         "SF": "2",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2014"
+        "year": "2014",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Zack\u00a0Cozart",
@@ -8285,7 +8763,9 @@
         "SF": "0",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2014"
+        "year": "2014",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Brandon\u00a0Crawford",
@@ -8317,7 +8797,9 @@
         "SF": "10",
         "IBB": "10",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2014"
+        "year": "2014",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Ian\u00a0Desmond",
@@ -8349,7 +8831,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6",
-        "year": "2014"
+        "year": "2014",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Alcides\u00a0Escobar",
@@ -8381,7 +8865,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2014"
+        "year": "2014",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Yunel\u00a0Escobar",
@@ -8413,7 +8899,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H7",
-        "year": "2014"
+        "year": "2014",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "J.J.\u00a0Hardy",
@@ -8445,7 +8933,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2014"
+        "year": "2014",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Adeiny\u00a0Hechavarr\u00eda",
@@ -8477,7 +8967,9 @@
         "SF": "6",
         "IBB": "5",
         "Pos\u00a0Summary": "*6",
-        "year": "2014"
+        "year": "2014",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Derek\u00a0Jeter",
@@ -8509,7 +9001,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6D/H",
-        "year": "2014"
+        "year": "2014",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Jed\u00a0Lowrie",
@@ -8541,7 +9035,9 @@
         "SF": "6",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2014"
+        "year": "2014",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Jordy\u00a0Mercer",
@@ -8573,7 +9069,9 @@
         "SF": "5",
         "IBB": "12",
         "Pos\u00a0Summary": "*6/H9",
-        "year": "2014"
+        "year": "2014",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Jhonny\u00a0Peralta",
@@ -8605,7 +9103,9 @@
         "SF": "4",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2014"
+        "year": "2014",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Alexei\u00a0Ram\u00edrez",
@@ -8637,7 +9137,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2014"
+        "year": "2014",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Hanley\u00a0Ram\u00edrez",
@@ -8669,7 +9171,9 @@
         "SF": "1",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2014"
+        "year": "2014",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Jos\u00e9\u00a0Reyes",
@@ -8701,7 +9205,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2014"
+        "year": "2014",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Jimmy\u00a0Rollins",
@@ -8733,7 +9239,9 @@
         "SF": "3",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2014"
+        "year": "2014",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jean\u00a0Segura",
@@ -8765,7 +9273,9 @@
         "SF": "2",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2014"
+        "year": "2014",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Andrelton\u00a0Simmons",
@@ -8797,7 +9307,9 @@
         "SF": "2",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2014"
+        "year": "2014",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Elvis\u00a0Andrus",
@@ -8829,7 +9341,9 @@
         "SF": "9",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2015"
+        "year": "2015",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Erick\u00a0Aybar",
@@ -8861,7 +9375,9 @@
         "SF": "5",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2015"
+        "year": "2015",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Xander\u00a0Bogaerts",
@@ -8893,7 +9409,9 @@
         "SF": "3",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2015"
+        "year": "2015",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Asdr\u00fabal\u00a0Cabrera",
@@ -8925,7 +9443,9 @@
         "SF": "6",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2015"
+        "year": "2015",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Starlin\u00a0Castro",
@@ -8957,7 +9477,9 @@
         "SF": "4",
         "IBB": "6",
         "Pos\u00a0Summary": "*64H",
-        "year": "2015"
+        "year": "2015",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Brandon\u00a0Crawford",
@@ -8989,7 +9511,9 @@
         "SF": "4",
         "IBB": "9",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2015"
+        "year": "2015",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Ian\u00a0Desmond",
@@ -9021,7 +9545,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2015"
+        "year": "2015",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Alcides\u00a0Escobar",
@@ -9053,7 +9579,9 @@
         "SF": "5",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2015"
+        "year": "2015",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Freddy\u00a0Galvis",
@@ -9085,7 +9613,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/4H",
-        "year": "2015"
+        "year": "2015",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Didi\u00a0Gregorius",
@@ -9117,7 +9647,9 @@
         "SF": "6",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2015"
+        "year": "2015",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Jhonny\u00a0Peralta",
@@ -9149,7 +9681,9 @@
         "SF": "6",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2015"
+        "year": "2015",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Alexei\u00a0Ram\u00edrez",
@@ -9181,7 +9715,9 @@
         "SF": "6",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/HD1",
-        "year": "2015"
+        "year": "2015",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jos\u00e9\u00a0Reyes",
@@ -9245,7 +9781,9 @@
         "SF": "1",
         "IBB": "0",
         "Pos\u00a0Summary": "*6H",
-        "year": "2015"
+        "year": "2015",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Jean\u00a0Segura",
@@ -9277,7 +9815,9 @@
         "SF": "2",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2015"
+        "year": "2015",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Marcus\u00a0Semien",
@@ -9309,7 +9849,9 @@
         "SF": "1",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2015"
+        "year": "2015",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Andrelton\u00a0Simmons",
@@ -9341,7 +9883,9 @@
         "SF": "2",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2015"
+        "year": "2015",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Troy\u00a0Tulowitzki",
@@ -9405,7 +9949,9 @@
         "SF": "7",
         "IBB": "2",
         "Pos\u00a0Summary": "*6",
-        "year": "2016"
+        "year": "2016",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Xander\u00a0Bogaerts",
@@ -9437,7 +9983,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6",
-        "year": "2016"
+        "year": "2016",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Asdr\u00fabal\u00a0Cabrera",
@@ -9469,7 +10017,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2016"
+        "year": "2016",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Carlos\u00a0Correa",
@@ -9501,7 +10051,9 @@
         "SF": "3",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2016"
+        "year": "2016",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Zack\u00a0Cozart",
@@ -9533,7 +10085,9 @@
         "SF": "4",
         "IBB": "3",
         "Pos\u00a0Summary": "*6H/D",
-        "year": "2016"
+        "year": "2016",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Brandon\u00a0Crawford",
@@ -9565,7 +10119,9 @@
         "SF": "9",
         "IBB": "10",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2016"
+        "year": "2016",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Alcides\u00a0Escobar",
@@ -9597,7 +10153,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6",
-        "year": "2016"
+        "year": "2016",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Danny\u00a0Espinosa",
@@ -9629,7 +10187,9 @@
         "SF": "4",
         "IBB": "12",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2016"
+        "year": "2016",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Freddy\u00a0Galvis",
@@ -9661,7 +10221,9 @@
         "SF": "4",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2016"
+        "year": "2016",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Didi\u00a0Gregorius",
@@ -9693,7 +10255,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2016"
+        "year": "2016",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Adeiny\u00a0Hechavarr\u00eda",
@@ -9725,7 +10289,9 @@
         "SF": "3",
         "IBB": "7",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2016"
+        "year": "2016",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jose\u00a0Iglesias",
@@ -9757,7 +10323,9 @@
         "SF": "3",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2016"
+        "year": "2016",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Francisco\u00a0Lindor",
@@ -9789,7 +10357,9 @@
         "SF": "15",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2016"
+        "year": "2016",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jordy\u00a0Mercer",
@@ -9821,7 +10391,9 @@
         "SF": "2",
         "IBB": "8",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2016"
+        "year": "2016",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Alexei\u00a0Ram\u00edrez",
@@ -9885,7 +10457,9 @@
         "SF": "6",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2016"
+        "year": "2016",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Corey\u00a0Seager",
@@ -9917,7 +10491,9 @@
         "SF": "2",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2016"
+        "year": "2016",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Marcus\u00a0Semien",
@@ -9949,7 +10525,9 @@
         "SF": "1",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2016"
+        "year": "2016",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Troy\u00a0Tulowitzki",
@@ -9981,7 +10559,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2016"
+        "year": "2016",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Tim\u00a0Anderson",
@@ -10013,7 +10593,9 @@
         "SF": "1",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2017"
+        "year": "2017",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Elvis\u00a0Andrus",
@@ -10045,7 +10627,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2017"
+        "year": "2017",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Orlando\u00a0Arcia",
@@ -10077,7 +10661,9 @@
         "SF": "3",
         "IBB": "9",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2017"
+        "year": "2017",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Tim\u00a0Beckham",
@@ -10141,7 +10727,9 @@
         "SF": "2",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2017"
+        "year": "2017",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Zack\u00a0Cozart",
@@ -10173,7 +10761,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2017"
+        "year": "2017",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Brandon\u00a0Crawford",
@@ -10205,7 +10795,9 @@
         "SF": "9",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2017"
+        "year": "2017",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Alcides\u00a0Escobar",
@@ -10237,7 +10829,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2017"
+        "year": "2017",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Freddy\u00a0Galvis",
@@ -10269,7 +10863,9 @@
         "SF": "4",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H87",
-        "year": "2017"
+        "year": "2017",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Didi\u00a0Gregorius",
@@ -10301,7 +10897,9 @@
         "SF": "7",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2017"
+        "year": "2017",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Francisco\u00a0Lindor",
@@ -10333,7 +10931,9 @@
         "SF": "3",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2017"
+        "year": "2017",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jordy\u00a0Mercer",
@@ -10365,7 +10965,9 @@
         "SF": "2",
         "IBB": "13",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2017"
+        "year": "2017",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Jorge\u00a0Polanco",
@@ -10397,7 +10999,9 @@
         "SF": "6",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2017"
+        "year": "2017",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Corey\u00a0Seager",
@@ -10429,7 +11033,9 @@
         "SF": "3",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2017"
+        "year": "2017",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Jean\u00a0Segura",
@@ -10461,7 +11067,9 @@
         "SF": "1",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2017"
+        "year": "2017",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Andrelton\u00a0Simmons",
@@ -10493,7 +11101,9 @@
         "SF": "8",
         "IBB": "0",
         "Pos\u00a0Summary": "*6",
-        "year": "2017"
+        "year": "2017",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Trevor\u00a0Story",
@@ -10525,7 +11135,9 @@
         "SF": "1",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2017"
+        "year": "2017",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Dansby\u00a0Swanson",
@@ -10557,7 +11169,9 @@
         "SF": "4",
         "IBB": "10",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2017"
+        "year": "2017",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Nick\u00a0Ahmed",
@@ -10589,7 +11203,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2018"
+        "year": "2018",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Tim\u00a0Anderson",
@@ -10621,7 +11237,9 @@
         "SF": "3",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2018"
+        "year": "2018",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Xander\u00a0Bogaerts",
@@ -10653,7 +11271,9 @@
         "SF": "6",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2018"
+        "year": "2018",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Brandon\u00a0Crawford",
@@ -10685,7 +11305,9 @@
         "SF": "5",
         "IBB": "13",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2018"
+        "year": "2018",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Freddy\u00a0Galvis",
@@ -10717,7 +11339,9 @@
         "SF": "6",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/4",
-        "year": "2018"
+        "year": "2018",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Didi\u00a0Gregorius",
@@ -10749,7 +11373,9 @@
         "SF": "9",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2018"
+        "year": "2018",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Francisco\u00a0Lindor",
@@ -10781,7 +11407,9 @@
         "SF": "3",
         "IBB": "7",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2018"
+        "year": "2018",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Manny\u00a0Machado",
@@ -10845,7 +11473,9 @@
         "SF": "5",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H9",
-        "year": "2018"
+        "year": "2018",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Amed\u00a0Rosario",
@@ -10877,7 +11507,9 @@
         "SF": "3",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2018"
+        "year": "2018",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jean\u00a0Segura",
@@ -10909,7 +11541,9 @@
         "SF": "6",
         "IBB": "2",
         "Pos\u00a0Summary": "*6",
-        "year": "2018"
+        "year": "2018",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Marcus\u00a0Semien",
@@ -10941,7 +11575,9 @@
         "SF": "7",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2018"
+        "year": "2018",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Andrelton\u00a0Simmons",
@@ -10973,7 +11609,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2018"
+        "year": "2018",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Trevor\u00a0Story",
@@ -11005,7 +11643,9 @@
         "SF": "4",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2018"
+        "year": "2018",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Dansby\u00a0Swanson",
@@ -11037,7 +11677,9 @@
         "SF": "3",
         "IBB": "15",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2018"
+        "year": "2018",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Trea\u00a0Turner",
@@ -11069,7 +11711,9 @@
         "SF": "0",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2018"
+        "year": "2018",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Willy\u00a0Adames",
@@ -11101,7 +11745,9 @@
         "SF": "1",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2019"
+        "year": "2019",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Nick\u00a0Ahmed",
@@ -11133,7 +11779,9 @@
         "SF": "12",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2019"
+        "year": "2019",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Tim\u00a0Anderson",
@@ -11165,7 +11813,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2019"
+        "year": "2019",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Elvis\u00a0Andrus",
@@ -11197,7 +11847,9 @@
         "SF": "10",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2019"
+        "year": "2019",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Orlando\u00a0Arcia",
@@ -11229,7 +11881,9 @@
         "SF": "6",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2019"
+        "year": "2019",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Javier\u00a0B\u00e1ez",
@@ -11261,7 +11915,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/HD5",
-        "year": "2019"
+        "year": "2019",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Xander\u00a0Bogaerts",
@@ -11293,7 +11949,9 @@
         "SF": "6",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2019"
+        "year": "2019",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Brandon\u00a0Crawford",
@@ -11325,7 +11983,9 @@
         "SF": "4",
         "IBB": "5",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2019"
+        "year": "2019",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Paul\u00a0DeJong",
@@ -11357,7 +12017,9 @@
         "SF": "6",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2019"
+        "year": "2019",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Freddy\u00a0Galvis",
@@ -11421,7 +12083,9 @@
         "SF": "2",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2019"
+        "year": "2019",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Francisco\u00a0Lindor",
@@ -11453,7 +12117,9 @@
         "SF": "6",
         "IBB": "9",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2019"
+        "year": "2019",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Jorge\u00a0Polanco",
@@ -11485,7 +12151,9 @@
         "SF": "7",
         "IBB": "2",
         "Pos\u00a0Summary": "*6D/H",
-        "year": "2019"
+        "year": "2019",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Miguel\u00a0Rojas",
@@ -11517,7 +12185,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/3H4",
-        "year": "2019"
+        "year": "2019",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Amed\u00a0Rosario",
@@ -11549,7 +12219,9 @@
         "SF": "3",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/HD7",
-        "year": "2019"
+        "year": "2019",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Corey\u00a0Seager",
@@ -11581,7 +12253,9 @@
         "SF": "4",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2019"
+        "year": "2019",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Jean\u00a0Segura",
@@ -11613,7 +12287,9 @@
         "SF": "3",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2019"
+        "year": "2019",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Marcus\u00a0Semien",
@@ -11645,7 +12321,9 @@
         "SF": "1",
         "IBB": "2",
         "Pos\u00a0Summary": "*6",
-        "year": "2019"
+        "year": "2019",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Trevor\u00a0Story",
@@ -11677,7 +12355,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2019"
+        "year": "2019",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Dansby\u00a0Swanson",
@@ -11709,7 +12389,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2019"
+        "year": "2019",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Trea\u00a0Turner",
@@ -11741,7 +12423,9 @@
         "SF": "2",
         "IBB": "2",
         "Pos\u00a0Summary": "*6",
-        "year": "2019"
+        "year": "2019",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Willy\u00a0Adames",
@@ -11805,7 +12489,9 @@
         "SF": "1",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2021"
+        "year": "2021",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Elvis\u00a0Andrus",
@@ -11837,7 +12523,9 @@
         "SF": "4",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2021"
+        "year": "2021",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Bo\u00a0Bichette",
@@ -11869,7 +12557,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6D",
-        "year": "2021"
+        "year": "2021",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Xander\u00a0Bogaerts",
@@ -11901,7 +12591,9 @@
         "SF": "7",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2021"
+        "year": "2021",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Carlos\u00a0Correa",
@@ -11933,7 +12625,9 @@
         "SF": "6",
         "IBB": "2",
         "Pos\u00a0Summary": "*6",
-        "year": "2021"
+        "year": "2021",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Brandon\u00a0Crawford",
@@ -11965,7 +12659,9 @@
         "SF": "5",
         "IBB": "6",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2021"
+        "year": "2021",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "J.P.\u00a0Crawford",
@@ -11997,7 +12693,9 @@
         "SF": "4",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2021"
+        "year": "2021",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Kyle\u00a0Farmer",
@@ -12029,7 +12727,9 @@
         "SF": "5",
         "IBB": "1",
         "Pos\u00a0Summary": "*65/4H37",
-        "year": "2021"
+        "year": "2021",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Jose\u00a0Iglesias",
@@ -12093,7 +12793,9 @@
         "SF": "2",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2021"
+        "year": "2021",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Francisco\u00a0Lindor",
@@ -12125,7 +12827,9 @@
         "SF": "3",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2021"
+        "year": "2021",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Nicky\u00a0Lopez",
@@ -12157,7 +12861,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/4H",
-        "year": "2021"
+        "year": "2021",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Kevin\u00a0Newman",
@@ -12189,7 +12895,9 @@
         "SF": "3",
         "IBB": "3",
         "Pos\u00a0Summary": "*64H",
-        "year": "2021"
+        "year": "2021",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Miguel\u00a0Rojas",
@@ -12221,7 +12929,9 @@
         "SF": "1",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2021"
+        "year": "2021",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Amed\u00a0Rosario",
@@ -12253,7 +12963,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*68/HD",
-        "year": "2021"
+        "year": "2021",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Trevor\u00a0Story",
@@ -12285,7 +12997,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/HD",
-        "year": "2021"
+        "year": "2021",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Dansby\u00a0Swanson",
@@ -12317,7 +13031,9 @@
         "SF": "7",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2021"
+        "year": "2021",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Willy\u00a0Adames",
@@ -12349,7 +13065,9 @@
         "SF": "4",
         "IBB": "3",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2022"
+        "year": "2022",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Elvis\u00a0Andrus",
@@ -12413,7 +13131,9 @@
         "SF": "3",
         "IBB": "1",
         "Pos\u00a0Summary": "*6D/H",
-        "year": "2022"
+        "year": "2022",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Bo\u00a0Bichette",
@@ -12445,7 +13165,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2022"
+        "year": "2022",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Xander\u00a0Bogaerts",
@@ -12477,7 +13199,9 @@
         "SF": "7",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2022"
+        "year": "2022",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Carlos\u00a0Correa",
@@ -12509,7 +13233,9 @@
         "SF": "4",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2022"
+        "year": "2022",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "J.P.\u00a0Crawford",
@@ -12541,7 +13267,9 @@
         "SF": "5",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2022"
+        "year": "2022",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Nico\u00a0Hoerner",
@@ -12573,7 +13301,9 @@
         "SF": "2",
         "IBB": "4",
         "Pos\u00a0Summary": "*6/H5D",
-        "year": "2022"
+        "year": "2022",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Ha-Seong\u00a0Kim",
@@ -12605,7 +13335,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*65/H",
-        "year": "2022"
+        "year": "2022",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Isiah\u00a0Kiner-Falefa",
@@ -12637,7 +13369,9 @@
         "SF": "5",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/5H",
-        "year": "2022"
+        "year": "2022",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Francisco\u00a0Lindor",
@@ -12669,7 +13403,9 @@
         "SF": "7",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2022"
+        "year": "2022",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jorge\u00a0Mateo",
@@ -12701,7 +13437,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2022"
+        "year": "2022",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Jeremy\u00a0Pe\u00f1a",
@@ -12733,7 +13471,9 @@
         "SF": "5",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2022"
+        "year": "2022",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Miguel\u00a0Rojas",
@@ -12765,7 +13505,9 @@
         "SF": "3",
         "IBB": "1",
         "Pos\u00a0Summary": "*63/H",
-        "year": "2022"
+        "year": "2022",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Amed\u00a0Rosario",
@@ -12797,7 +13539,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/D7H",
-        "year": "2022"
+        "year": "2022",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Corey\u00a0Seager",
@@ -12829,7 +13573,9 @@
         "SF": "5",
         "IBB": "7",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2022"
+        "year": "2022",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Dansby\u00a0Swanson",
@@ -12861,7 +13607,9 @@
         "SF": "4",
         "IBB": "0",
         "Pos\u00a0Summary": "*6",
-        "year": "2022"
+        "year": "2022",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Trea\u00a0Turner",
@@ -12893,7 +13641,9 @@
         "SF": "6",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2022"
+        "year": "2022",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "CJ\u00a0Abrams",
@@ -12925,7 +13675,9 @@
         "SF": "3",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2023"
+        "year": "2023",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Willy\u00a0Adames",
@@ -12957,7 +13709,9 @@
         "SF": "6",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2023"
+        "year": "2023",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Tim\u00a0Anderson",
@@ -12989,7 +13743,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H4",
-        "year": "2023"
+        "year": "2023",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Orlando\u00a0Arcia",
@@ -13021,7 +13777,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2023"
+        "year": "2023",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Javier\u00a0B\u00e1ez",
@@ -13053,7 +13811,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2023"
+        "year": "2023",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "Bo\u00a0Bichette",
@@ -13085,7 +13845,9 @@
         "SF": "1",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2023"
+        "year": "2023",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Xander\u00a0Bogaerts",
@@ -13117,7 +13879,9 @@
         "SF": "6",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2023"
+        "year": "2023",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Carlos\u00a0Correa",
@@ -13149,7 +13913,9 @@
         "SF": "3",
         "IBB": "3",
         "Pos\u00a0Summary": "*6",
-        "year": "2023"
+        "year": "2023",
+        "League": "AL",
+        "Division": "AL Central"
     },
     {
         "Name": "J.P.\u00a0Crawford",
@@ -13181,7 +13947,9 @@
         "SF": "2",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2023"
+        "year": "2023",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Francisco\u00a0Lindor",
@@ -13213,7 +13981,9 @@
         "SF": "7",
         "IBB": "1",
         "Pos\u00a0Summary": "*6/DH",
-        "year": "2023"
+        "year": "2023",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Jeremy\u00a0Pe\u00f1a",
@@ -13245,7 +14015,9 @@
         "SF": "1",
         "IBB": "1",
         "Pos\u00a0Summary": "*6",
-        "year": "2023"
+        "year": "2023",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Corey\u00a0Seager",
@@ -13277,7 +14049,9 @@
         "SF": "6",
         "IBB": "9",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2023"
+        "year": "2023",
+        "League": "AL",
+        "Division": "AL West"
     },
     {
         "Name": "Dansby\u00a0Swanson",
@@ -13309,7 +14083,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6",
-        "year": "2023"
+        "year": "2023",
+        "League": "NL",
+        "Division": "NL Central"
     },
     {
         "Name": "Ezequiel\u00a0Tovar",
@@ -13341,7 +14117,9 @@
         "SF": "3",
         "IBB": "0",
         "Pos\u00a0Summary": "*6",
-        "year": "2023"
+        "year": "2023",
+        "League": "NL",
+        "Division": "NL West"
     },
     {
         "Name": "Trea\u00a0Turner",
@@ -13373,7 +14151,9 @@
         "SF": "1",
         "IBB": "2",
         "Pos\u00a0Summary": "*6/D",
-        "year": "2023"
+        "year": "2023",
+        "League": "NL",
+        "Division": "NL East"
     },
     {
         "Name": "Anthony\u00a0Volpe",
@@ -13405,7 +14185,9 @@
         "SF": "2",
         "IBB": "0",
         "Pos\u00a0Summary": "*6/H",
-        "year": "2023"
+        "year": "2023",
+        "League": "AL",
+        "Division": "AL East"
     },
     {
         "Name": "Bobby\u00a0Witt\u00a0Jr.",
@@ -13437,6 +14219,8 @@
         "SF": "8",
         "IBB": "1",
         "Pos\u00a0Summary": "*6D/H",
-        "year": "2023"
+        "year": "2023",
+        "League": "AL",
+        "Division": "AL Central"
     }
 ]

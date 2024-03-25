@@ -118,7 +118,7 @@ function LeftField({ leftfieldData }) {
         position="Left Field"
         positionData={leftfieldData}
         randomPositionIndex={randomLeftFieldIndex}
-        positionNames={rightfieldNames}
+        positionNames={leftfieldNames}
       />
     </div>
   );
