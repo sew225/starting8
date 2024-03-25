@@ -49,6 +49,7 @@ function Card({ positionData, randomPositionIndex, position, positionNames }) {
 
         <Modal.Body>
           <h1>
+            {" "}
             {player.Name}: {player.year} season
           </h1>
           <p>AVG: {player.BA}</p>
@@ -61,7 +62,7 @@ function Card({ positionData, randomPositionIndex, position, positionNames }) {
         </Modal.Body>
 
         <Modal.Footer>
-          {SearchBar(positionData, positionNames)}
+          {SearchBar(positionData, positionNames, player)}
           <Button variant="secondary" onClick={handleClose}>
             Close
           </Button>
@@ -71,7 +72,7 @@ function Card({ positionData, randomPositionIndex, position, positionNames }) {
   );
 }
 
-function SearchBar(positionData, positionNames) {
+function SearchBar(positionData, positionNames, player) {
   const [value, setValue] = useState("");
   const onChange = (event) => {
     setValue(event.target.value);
@@ -80,12 +81,22 @@ function SearchBar(positionData, positionNames) {
     setValue(searchTerm);
     //api to fetch search result
     console.log("search", searchTerm);
+    checkPlayer(searchTerm);
   };
+  function checkPlayer(val) {
+    if (val == player.Name) {
+      console.log("Correct Guess");
+      window.alert("CORRECT");
+    } else {
+      console.log("Wrong");
+      window.alert("INCORRECT");
+    }
+  }
   return (
     <div className="searchBar">
       <div className="app">
         <input type="text" value={value} onChange={onChange} />
-        <button onClick={() => onSearch(value)}>Search</button>
+        <button onClick={() => onSearch(value)}>Submit</button>
       </div>
       <div className="dropDown">
         {positionNames &&

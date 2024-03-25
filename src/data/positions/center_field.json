@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Carlos\u00a0Beltr\u00e1n#",
+        "Name": "Carlos\u00a0Beltr\u00e1n",
         "Age": "24",
         "Tm": "KCR",
         "Lg": "AL",
@@ -64,7 +64,7 @@
         "year": "2001"
     },
     {
-        "Name": "Roger\u00a0Cede\u00f1o#",
+        "Name": "Roger\u00a0Cede\u00f1o",
         "Age": "26",
         "Tm": "DET",
         "Lg": "AL",
@@ -96,7 +96,7 @@
         "year": "2001"
     },
     {
-        "Name": "Jos\u00e9\u00a0Cruz#",
+        "Name": "Jos\u00e9\u00a0Cruz",
         "Age": "27",
         "Tm": "TOR",
         "Lg": "AL",
@@ -128,7 +128,7 @@
         "year": "2001"
     },
     {
-        "Name": "Johnny\u00a0Damon*",
+        "Name": "Johnny\u00a0Damon",
         "Age": "27",
         "Tm": "OAK",
         "Lg": "AL",
@@ -160,7 +160,7 @@
         "year": "2001"
     },
     {
-        "Name": "Jim\u00a0Edmonds*",
+        "Name": "Jim\u00a0Edmonds",
         "Age": "31",
         "Tm": "STL",
         "Lg": "NL",
@@ -192,7 +192,7 @@
         "year": "2001"
     },
     {
-        "Name": "Darin\u00a0Erstad*",
+        "Name": "Darin\u00a0Erstad",
         "Age": "27",
         "Tm": "ANA",
         "Lg": "AL",
@@ -224,7 +224,7 @@
         "year": "2001"
     },
     {
-        "Name": "Steve\u00a0Finley*",
+        "Name": "Steve\u00a0Finley",
         "Age": "36",
         "Tm": "ARI",
         "Lg": "NL",
@@ -416,7 +416,7 @@
         "year": "2001"
     },
     {
-        "Name": "Kenny\u00a0Lofton*",
+        "Name": "Kenny\u00a0Lofton",
         "Age": "34",
         "Tm": "CLE",
         "Lg": "AL",
@@ -448,7 +448,7 @@
         "year": "2001"
     },
     {
-        "Name": "Terrence\u00a0Long*",
+        "Name": "Terrence\u00a0Long",
         "Age": "25",
         "Tm": "OAK",
         "Lg": "AL",
@@ -480,7 +480,7 @@
         "year": "2001"
     },
     {
-        "Name": "Juan\u00a0Pierre*",
+        "Name": "Juan\u00a0Pierre",
         "Age": "23",
         "Tm": "COL",
         "Lg": "NL",
@@ -512,7 +512,7 @@
         "year": "2001"
     },
     {
-        "Name": "Bernie\u00a0Williams#",
+        "Name": "Bernie\u00a0Williams",
         "Age": "32",
         "Tm": "NYY",
         "Lg": "AL",
@@ -576,7 +576,7 @@
         "year": "2001"
     },
     {
-        "Name": "Carlos\u00a0Beltr\u00e1n#",
+        "Name": "Carlos\u00a0Beltr\u00e1n",
         "Age": "25",
         "Tm": "KCR",
         "Lg": "AL",
@@ -608,7 +608,7 @@
         "year": "2002"
     },
     {
-        "Name": "Lance\u00a0Berkman#",
+        "Name": "Lance\u00a0Berkman",
         "Age": "26",
         "Tm": "HOU",
         "Lg": "NL",
@@ -672,7 +672,7 @@
         "year": "2002"
     },
     {
-        "Name": "Johnny\u00a0Damon*",
+        "Name": "Johnny\u00a0Damon",
         "Age": "28",
         "Tm": "BOS",
         "Lg": "AL",
@@ -704,7 +704,7 @@
         "year": "2002"
     },
     {
-        "Name": "Jim\u00a0Edmonds*",
+        "Name": "Jim\u00a0Edmonds",
         "Age": "32",
         "Tm": "STL",
         "Lg": "NL",
@@ -736,7 +736,7 @@
         "year": "2002"
     },
     {
-        "Name": "Darin\u00a0Erstad*",
+        "Name": "Darin\u00a0Erstad",
         "Age": "28",
         "Tm": "ANA",
         "Lg": "AL",
@@ -768,7 +768,7 @@
         "year": "2002"
     },
     {
-        "Name": "Steve\u00a0Finley*",
+        "Name": "Steve\u00a0Finley",
         "Age": "37",
         "Tm": "ARI",
         "Lg": "NL",
@@ -896,7 +896,7 @@
         "year": "2002"
     },
     {
-        "Name": "Mark\u00a0Kotsay*",
+        "Name": "Mark\u00a0Kotsay",
         "Age": "26",
         "Tm": "SDP",
         "Lg": "NL",
@@ -928,7 +928,7 @@
         "year": "2002"
     },
     {
-        "Name": "Kenny\u00a0Lofton*",
+        "Name": "Kenny\u00a0Lofton",
         "Age": "35",
         "Tm": "TOT",
         "Lg": "MLB",
@@ -960,7 +960,7 @@
         "year": "2002"
     },
     {
-        "Name": "Terrence\u00a0Long*",
+        "Name": "Terrence\u00a0Long",
         "Age": "26",
         "Tm": "OAK",
         "Lg": "AL",
@@ -992,7 +992,7 @@
         "year": "2002"
     },
     {
-        "Name": "Corey\u00a0Patterson*",
+        "Name": "Corey\u00a0Patterson",
         "Age": "22",
         "Tm": "CHC",
         "Lg": "NL",
@@ -1024,7 +1024,7 @@
         "year": "2002"
     },
     {
-        "Name": "Juan\u00a0Pierre*",
+        "Name": "Juan\u00a0Pierre",
         "Age": "24",
         "Tm": "COL",
         "Lg": "NL",
@@ -1056,7 +1056,7 @@
         "year": "2002"
     },
     {
-        "Name": "Chris\u00a0Singleton*",
+        "Name": "Chris\u00a0Singleton",
         "Age": "29",
         "Tm": "BAL",
         "Lg": "AL",
@@ -1120,7 +1120,7 @@
         "year": "2002"
     },
     {
-        "Name": "Brad\u00a0Wilkerson*",
+        "Name": "Brad\u00a0Wilkerson",
         "Age": "25",
         "Tm": "MON",
         "Lg": "NL",
@@ -1152,7 +1152,7 @@
         "year": "2002"
     },
     {
-        "Name": "Bernie\u00a0Williams#",
+        "Name": "Bernie\u00a0Williams",
         "Age": "33",
         "Tm": "NYY",
         "Lg": "AL",
@@ -1216,7 +1216,7 @@
         "year": "2002"
     },
     {
-        "Name": "Randy\u00a0Winn#",
+        "Name": "Randy\u00a0Winn",
         "Age": "28",
         "Tm": "TBD",
         "Lg": "AL",
@@ -1280,7 +1280,7 @@
         "year": "2003"
     },
     {
-        "Name": "Carlos\u00a0Beltr\u00e1n#",
+        "Name": "Carlos\u00a0Beltr\u00e1n",
         "Age": "26",
         "Tm": "KCR",
         "Lg": "AL",
@@ -1408,7 +1408,7 @@
         "year": "2003"
     },
     {
-        "Name": "Endy\u00a0Ch\u00e1vez*",
+        "Name": "Endy\u00a0Ch\u00e1vez",
         "Age": "25",
         "Tm": "MON",
         "Lg": "NL",
@@ -1440,7 +1440,7 @@
         "year": "2003"
     },
     {
-        "Name": "Johnny\u00a0Damon*",
+        "Name": "Johnny\u00a0Damon",
         "Age": "29",
         "Tm": "BOS",
         "Lg": "AL",
@@ -1472,7 +1472,7 @@
         "year": "2003"
     },
     {
-        "Name": "Jim\u00a0Edmonds*",
+        "Name": "Jim\u00a0Edmonds",
         "Age": "33",
         "Tm": "STL",
         "Lg": "NL",
@@ -1504,7 +1504,7 @@
         "year": "2003"
     },
     {
-        "Name": "Carl\u00a0Everett#",
+        "Name": "Carl\u00a0Everett",
         "Age": "32",
         "Tm": "TOT",
         "Lg": "AL",
@@ -1536,7 +1536,7 @@
         "year": "2003"
     },
     {
-        "Name": "Steve\u00a0Finley*",
+        "Name": "Steve\u00a0Finley",
         "Age": "38",
         "Tm": "ARI",
         "Lg": "NL",
@@ -1664,7 +1664,7 @@
         "year": "2003"
     },
     {
-        "Name": "Mark\u00a0Kotsay*",
+        "Name": "Mark\u00a0Kotsay",
         "Age": "27",
         "Tm": "SDP",
         "Lg": "NL",
@@ -1696,7 +1696,7 @@
         "year": "2003"
     },
     {
-        "Name": "Kenny\u00a0Lofton*",
+        "Name": "Kenny\u00a0Lofton",
         "Age": "36",
         "Tm": "TOT",
         "Lg": "NL",
@@ -1728,7 +1728,7 @@
         "year": "2003"
     },
     {
-        "Name": "Gary\u00a0Matthews#",
+        "Name": "Gary\u00a0Matthews",
         "Age": "28",
         "Tm": "TOT",
         "Lg": "MLB",
@@ -1760,7 +1760,7 @@
         "year": "2003"
     },
     {
-        "Name": "Juan\u00a0Pierre*",
+        "Name": "Juan\u00a0Pierre",
         "Age": "25",
         "Tm": "FLA",
         "Lg": "NL",
@@ -1792,7 +1792,7 @@
         "year": "2003"
     },
     {
-        "Name": "Scott\u00a0Podsednik*",
+        "Name": "Scott\u00a0Podsednik",
         "Age": "27",
         "Tm": "MIL",
         "Lg": "NL",
@@ -1824,7 +1824,7 @@
         "year": "2003"
     },
     {
-        "Name": "Alex\u00a0S\u00e1nchez*",
+        "Name": "Alex\u00a0S\u00e1nchez",
         "Age": "26",
         "Tm": "TOT",
         "Lg": "MLB",
@@ -1888,7 +1888,7 @@
         "year": "2003"
     },
     {
-        "Name": "Bernie\u00a0Williams#",
+        "Name": "Bernie\u00a0Williams",
         "Age": "34",
         "Tm": "NYY",
         "Lg": "AL",
@@ -1984,7 +1984,7 @@
         "year": "2004"
     },
     {
-        "Name": "Carlos\u00a0Beltr\u00e1n#",
+        "Name": "Carlos\u00a0Beltr\u00e1n",
         "Age": "27",
         "Tm": "TOT",
         "Lg": "MLB",
@@ -2016,7 +2016,7 @@
         "year": "2004"
     },
     {
-        "Name": "Milton\u00a0Bradley#",
+        "Name": "Milton\u00a0Bradley",
         "Age": "26",
         "Tm": "LAD",
         "Lg": "NL",
@@ -2080,7 +2080,7 @@
         "year": "2004"
     },
     {
-        "Name": "Endy\u00a0Ch\u00e1vez*",
+        "Name": "Endy\u00a0Ch\u00e1vez",
         "Age": "26",
         "Tm": "MON",
         "Lg": "NL",
@@ -2112,7 +2112,7 @@
         "year": "2004"
     },
     {
-        "Name": "Coco\u00a0Crisp#",
+        "Name": "Coco\u00a0Crisp",
         "Age": "24",
         "Tm": "CLE",
         "Lg": "AL",
@@ -2144,7 +2144,7 @@
         "year": "2004"
     },
     {
-        "Name": "Johnny\u00a0Damon*",
+        "Name": "Johnny\u00a0Damon",
         "Age": "30",
         "Tm": "BOS",
         "Lg": "AL",
@@ -2176,7 +2176,7 @@
         "year": "2004"
     },
     {
-        "Name": "Jim\u00a0Edmonds*",
+        "Name": "Jim\u00a0Edmonds",
         "Age": "34",
         "Tm": "STL",
         "Lg": "NL",
@@ -2208,7 +2208,7 @@
         "year": "2004"
     },
     {
-        "Name": "Steve\u00a0Finley*",
+        "Name": "Steve\u00a0Finley",
         "Age": "39",
         "Tm": "TOT",
         "Lg": "NL",
@@ -2336,7 +2336,7 @@
         "year": "2004"
     },
     {
-        "Name": "Mark\u00a0Kotsay*",
+        "Name": "Mark\u00a0Kotsay",
         "Age": "28",
         "Tm": "OAK",
         "Lg": "AL",
@@ -2368,7 +2368,7 @@
         "year": "2004"
     },
     {
-        "Name": "Corey\u00a0Patterson*",
+        "Name": "Corey\u00a0Patterson",
         "Age": "24",
         "Tm": "CHC",
         "Lg": "NL",
@@ -2432,7 +2432,7 @@
         "year": "2004"
     },
     {
-        "Name": "Juan\u00a0Pierre*",
+        "Name": "Juan\u00a0Pierre",
         "Age": "26",
         "Tm": "FLA",
         "Lg": "NL",
@@ -2464,7 +2464,7 @@
         "year": "2004"
     },
     {
-        "Name": "Scott\u00a0Podsednik*",
+        "Name": "Scott\u00a0Podsednik",
         "Age": "28",
         "Tm": "MIL",
         "Lg": "NL",
@@ -2496,7 +2496,7 @@
         "year": "2004"
     },
     {
-        "Name": "Tike\u00a0Redman*",
+        "Name": "Tike\u00a0Redman",
         "Age": "27",
         "Tm": "PIT",
         "Lg": "NL",
@@ -2592,7 +2592,7 @@
         "year": "2004"
     },
     {
-        "Name": "Randy\u00a0Winn#",
+        "Name": "Randy\u00a0Winn",
         "Age": "30",
         "Tm": "SEA",
         "Lg": "AL",
@@ -2624,7 +2624,7 @@
         "year": "2004"
     },
     {
-        "Name": "Carlos\u00a0Beltr\u00e1n#",
+        "Name": "Carlos\u00a0Beltr\u00e1n",
         "Age": "28",
         "Tm": "NYM",
         "Lg": "NL",
@@ -2688,7 +2688,7 @@
         "year": "2005"
     },
     {
-        "Name": "Johnny\u00a0Damon*",
+        "Name": "Johnny\u00a0Damon",
         "Age": "31",
         "Tm": "BOS",
         "Lg": "AL",
@@ -2720,7 +2720,7 @@
         "year": "2005"
     },
     {
-        "Name": "David\u00a0DeJesus*",
+        "Name": "David\u00a0DeJesus",
         "Age": "25",
         "Tm": "KCR",
         "Lg": "AL",
@@ -2752,7 +2752,7 @@
         "year": "2005"
     },
     {
-        "Name": "Jim\u00a0Edmonds*",
+        "Name": "Jim\u00a0Edmonds",
         "Age": "35",
         "Tm": "STL",
         "Lg": "NL",
@@ -2784,7 +2784,7 @@
         "year": "2005"
     },
     {
-        "Name": "Ken\u00a0Griffey\u00a0Jr.*",
+        "Name": "Ken\u00a0Griffey\u00a0Jr.",
         "Age": "35",
         "Tm": "CIN",
         "Lg": "NL",
@@ -2848,7 +2848,7 @@
         "year": "2005"
     },
     {
-        "Name": "Mark\u00a0Kotsay*",
+        "Name": "Mark\u00a0Kotsay",
         "Age": "29",
         "Tm": "OAK",
         "Lg": "AL",
@@ -2880,7 +2880,7 @@
         "year": "2005"
     },
     {
-        "Name": "Gary\u00a0Matthews#",
+        "Name": "Gary\u00a0Matthews",
         "Age": "30",
         "Tm": "TEX",
         "Lg": "AL",
@@ -2912,7 +2912,7 @@
         "year": "2005"
     },
     {
-        "Name": "Juan\u00a0Pierre*",
+        "Name": "Juan\u00a0Pierre",
         "Age": "27",
         "Tm": "FLA",
         "Lg": "NL",
@@ -2944,7 +2944,7 @@
         "year": "2005"
     },
     {
-        "Name": "Jeremy\u00a0Reed*",
+        "Name": "Jeremy\u00a0Reed",
         "Age": "24",
         "Tm": "SEA",
         "Lg": "AL",
@@ -3008,7 +3008,7 @@
         "year": "2005"
     },
     {
-        "Name": "Grady\u00a0Sizemore*",
+        "Name": "Grady\u00a0Sizemore",
         "Age": "22",
         "Tm": "CLE",
         "Lg": "AL",
@@ -3104,7 +3104,7 @@
         "year": "2005"
     },
     {
-        "Name": "Brad\u00a0Wilkerson*",
+        "Name": "Brad\u00a0Wilkerson",
         "Age": "28",
         "Tm": "WSN",
         "Lg": "NL",
@@ -3136,7 +3136,7 @@
         "year": "2005"
     },
     {
-        "Name": "Bernie\u00a0Williams#",
+        "Name": "Bernie\u00a0Williams",
         "Age": "36",
         "Tm": "NYY",
         "Lg": "AL",
@@ -3200,7 +3200,7 @@
         "year": "2005"
     },
     {
-        "Name": "Carlos\u00a0Beltr\u00e1n#",
+        "Name": "Carlos\u00a0Beltr\u00e1n",
         "Age": "29",
         "Tm": "NYM",
         "Lg": "NL",
@@ -3296,7 +3296,7 @@
         "year": "2006"
     },
     {
-        "Name": "Johnny\u00a0Damon*",
+        "Name": "Johnny\u00a0Damon",
         "Age": "32",
         "Tm": "NYY",
         "Lg": "AL",
@@ -3328,7 +3328,7 @@
         "year": "2006"
     },
     {
-        "Name": "Chone\u00a0Figgins#",
+        "Name": "Chone\u00a0Figgins",
         "Age": "28",
         "Tm": "LAA",
         "Lg": "AL",
@@ -3360,7 +3360,7 @@
         "year": "2006"
     },
     {
-        "Name": "Curtis\u00a0Granderson*",
+        "Name": "Curtis\u00a0Granderson",
         "Age": "25",
         "Tm": "DET",
         "Lg": "AL",
@@ -3456,7 +3456,7 @@
         "year": "2006"
     },
     {
-        "Name": "Mark\u00a0Kotsay*",
+        "Name": "Mark\u00a0Kotsay",
         "Age": "30",
         "Tm": "OAK",
         "Lg": "AL",
@@ -3488,7 +3488,7 @@
         "year": "2006"
     },
     {
-        "Name": "Kenny\u00a0Lofton*",
+        "Name": "Kenny\u00a0Lofton",
         "Age": "39",
         "Tm": "LAD",
         "Lg": "NL",
@@ -3520,7 +3520,7 @@
         "year": "2006"
     },
     {
-        "Name": "Gary\u00a0Matthews#",
+        "Name": "Gary\u00a0Matthews",
         "Age": "31",
         "Tm": "TEX",
         "Lg": "AL",
@@ -3552,7 +3552,7 @@
         "year": "2006"
     },
     {
-        "Name": "Juan\u00a0Pierre*",
+        "Name": "Juan\u00a0Pierre",
         "Age": "28",
         "Tm": "CHC",
         "Lg": "NL",
@@ -3584,7 +3584,7 @@
         "year": "2006"
     },
     {
-        "Name": "Grady\u00a0Sizemore*",
+        "Name": "Grady\u00a0Sizemore",
         "Age": "23",
         "Tm": "CLE",
         "Lg": "AL",
@@ -3680,7 +3680,7 @@
         "year": "2006"
     },
     {
-        "Name": "Carlos\u00a0Beltr\u00e1n#",
+        "Name": "Carlos\u00a0Beltr\u00e1n",
         "Age": "30",
         "Tm": "NYM",
         "Lg": "NL",
@@ -3712,7 +3712,7 @@
         "year": "2007"
     },
     {
-        "Name": "Melky\u00a0Cabrera#",
+        "Name": "Melky\u00a0Cabrera",
         "Age": "22",
         "Tm": "NYY",
         "Lg": "AL",
@@ -3776,7 +3776,7 @@
         "year": "2007"
     },
     {
-        "Name": "Coco\u00a0Crisp#",
+        "Name": "Coco\u00a0Crisp",
         "Age": "27",
         "Tm": "BOS",
         "Lg": "AL",
@@ -3808,7 +3808,7 @@
         "year": "2007"
     },
     {
-        "Name": "David\u00a0DeJesus*",
+        "Name": "David\u00a0DeJesus",
         "Age": "27",
         "Tm": "KCR",
         "Lg": "AL",
@@ -3840,7 +3840,7 @@
         "year": "2007"
     },
     {
-        "Name": "Curtis\u00a0Granderson*",
+        "Name": "Curtis\u00a0Granderson",
         "Age": "26",
         "Tm": "DET",
         "Lg": "AL",
@@ -3968,7 +3968,7 @@
         "year": "2007"
     },
     {
-        "Name": "Kenny\u00a0Lofton*",
+        "Name": "Kenny\u00a0Lofton",
         "Age": "40",
         "Tm": "TOT",
         "Lg": "AL",
@@ -4000,7 +4000,7 @@
         "year": "2007"
     },
     {
-        "Name": "Gary\u00a0Matthews#",
+        "Name": "Gary\u00a0Matthews",
         "Age": "32",
         "Tm": "LAA",
         "Lg": "AL",
@@ -4032,7 +4032,7 @@
         "year": "2007"
     },
     {
-        "Name": "Corey\u00a0Patterson*",
+        "Name": "Corey\u00a0Patterson",
         "Age": "27",
         "Tm": "BAL",
         "Lg": "AL",
@@ -4064,7 +4064,7 @@
         "year": "2007"
     },
     {
-        "Name": "Juan\u00a0Pierre*",
+        "Name": "Juan\u00a0Pierre",
         "Age": "29",
         "Tm": "LAD",
         "Lg": "NL",
@@ -4128,7 +4128,7 @@
         "year": "2007"
     },
     {
-        "Name": "Grady\u00a0Sizemore*",
+        "Name": "Grady\u00a0Sizemore",
         "Age": "24",
         "Tm": "CLE",
         "Lg": "AL",
@@ -4160,7 +4160,7 @@
         "year": "2007"
     },
     {
-        "Name": "Ichiro\u00a0Suzuki*",
+        "Name": "Ichiro\u00a0Suzuki",
         "Age": "33",
         "Tm": "SEA",
         "Lg": "AL",
@@ -4256,7 +4256,7 @@
         "year": "2007"
     },
     {
-        "Name": "Carlos\u00a0Beltr\u00e1n#",
+        "Name": "Carlos\u00a0Beltr\u00e1n",
         "Age": "31",
         "Tm": "NYM",
         "Lg": "NL",
@@ -4288,7 +4288,7 @@
         "year": "2008"
     },
     {
-        "Name": "Michael\u00a0Bourn*",
+        "Name": "Michael\u00a0Bourn",
         "Age": "25",
         "Tm": "HOU",
         "Lg": "NL",
@@ -4352,7 +4352,7 @@
         "year": "2008"
     },
     {
-        "Name": "Jacoby\u00a0Ellsbury*",
+        "Name": "Jacoby\u00a0Ellsbury",
         "Age": "24",
         "Tm": "BOS",
         "Lg": "AL",
@@ -4416,7 +4416,7 @@
         "year": "2008"
     },
     {
-        "Name": "Curtis\u00a0Granderson*",
+        "Name": "Curtis\u00a0Granderson",
         "Age": "27",
         "Tm": "DET",
         "Lg": "AL",
@@ -4448,7 +4448,7 @@
         "year": "2008"
     },
     {
-        "Name": "Josh\u00a0Hamilton*",
+        "Name": "Josh\u00a0Hamilton",
         "Age": "27",
         "Tm": "TEX",
         "Lg": "AL",
@@ -4576,7 +4576,7 @@
         "year": "2008"
     },
     {
-        "Name": "Nate\u00a0McLouth*",
+        "Name": "Nate\u00a0McLouth",
         "Age": "26",
         "Tm": "PIT",
         "Lg": "NL",
@@ -4704,7 +4704,7 @@
         "year": "2008"
     },
     {
-        "Name": "Skip\u00a0Schumaker*",
+        "Name": "Skip\u00a0Schumaker",
         "Age": "28",
         "Tm": "STL",
         "Lg": "NL",
@@ -4736,7 +4736,7 @@
         "year": "2008"
     },
     {
-        "Name": "Grady\u00a0Sizemore*",
+        "Name": "Grady\u00a0Sizemore",
         "Age": "25",
         "Tm": "CLE",
         "Lg": "AL",
@@ -4896,7 +4896,7 @@
         "year": "2008"
     },
     {
-        "Name": "Michael\u00a0Bourn*",
+        "Name": "Michael\u00a0Bourn",
         "Age": "26",
         "Tm": "HOU",
         "Lg": "NL",
@@ -4960,7 +4960,7 @@
         "year": "2009"
     },
     {
-        "Name": "Melky\u00a0Cabrera#",
+        "Name": "Melky\u00a0Cabrera",
         "Age": "24",
         "Tm": "NYY",
         "Lg": "AL",
@@ -5024,7 +5024,7 @@
         "year": "2009"
     },
     {
-        "Name": "Jacoby\u00a0Ellsbury*",
+        "Name": "Jacoby\u00a0Ellsbury",
         "Age": "25",
         "Tm": "BOS",
         "Lg": "AL",
@@ -5056,7 +5056,7 @@
         "year": "2009"
     },
     {
-        "Name": "Dexter\u00a0Fowler#",
+        "Name": "Dexter\u00a0Fowler",
         "Age": "23",
         "Tm": "COL",
         "Lg": "NL",
@@ -5088,7 +5088,7 @@
         "year": "2009"
     },
     {
-        "Name": "Kosuke\u00a0Fukudome*",
+        "Name": "Kosuke\u00a0Fukudome",
         "Age": "32",
         "Tm": "CHC",
         "Lg": "NL",
@@ -5120,7 +5120,7 @@
         "year": "2009"
     },
     {
-        "Name": "Curtis\u00a0Granderson*",
+        "Name": "Curtis\u00a0Granderson",
         "Age": "28",
         "Tm": "DET",
         "Lg": "AL",
@@ -5280,7 +5280,7 @@
         "year": "2009"
     },
     {
-        "Name": "Nate\u00a0McLouth*",
+        "Name": "Nate\u00a0McLouth",
         "Age": "27",
         "Tm": "TOT",
         "Lg": "NL",
@@ -5312,7 +5312,7 @@
         "year": "2009"
     },
     {
-        "Name": "Colby\u00a0Rasmus*",
+        "Name": "Colby\u00a0Rasmus",
         "Age": "22",
         "Tm": "STL",
         "Lg": "NL",
@@ -5408,7 +5408,7 @@
         "year": "2009"
     },
     {
-        "Name": "Denard\u00a0Span*",
+        "Name": "Denard\u00a0Span",
         "Age": "25",
         "Tm": "MIN",
         "Lg": "AL",
@@ -5536,7 +5536,7 @@
         "year": "2009"
     },
     {
-        "Name": "Michael\u00a0Bourn*",
+        "Name": "Michael\u00a0Bourn",
         "Age": "27",
         "Tm": "HOU",
         "Lg": "NL",
@@ -5632,7 +5632,7 @@
         "year": "2010"
     },
     {
-        "Name": "Dexter\u00a0Fowler#",
+        "Name": "Dexter\u00a0Fowler",
         "Age": "24",
         "Tm": "COL",
         "Lg": "NL",
@@ -5664,7 +5664,7 @@
         "year": "2010"
     },
     {
-        "Name": "Curtis\u00a0Granderson*",
+        "Name": "Curtis\u00a0Granderson",
         "Age": "29",
         "Tm": "NYY",
         "Lg": "AL",
@@ -5888,7 +5888,7 @@
         "year": "2010"
     },
     {
-        "Name": "Nyjer\u00a0Morgan*",
+        "Name": "Nyjer\u00a0Morgan",
         "Age": "29",
         "Tm": "WSN",
         "Lg": "NL",
@@ -5920,7 +5920,7 @@
         "year": "2010"
     },
     {
-        "Name": "\u00c1ngel\u00a0Pag\u00e1n#",
+        "Name": "\u00c1ngel\u00a0Pag\u00e1n",
         "Age": "28",
         "Tm": "NYM",
         "Lg": "NL",
@@ -5952,7 +5952,7 @@
         "year": "2010"
     },
     {
-        "Name": "Colby\u00a0Rasmus*",
+        "Name": "Colby\u00a0Rasmus",
         "Age": "23",
         "Tm": "STL",
         "Lg": "NL",
@@ -6048,7 +6048,7 @@
         "year": "2010"
     },
     {
-        "Name": "Denard\u00a0Span*",
+        "Name": "Denard\u00a0Span",
         "Age": "26",
         "Tm": "MIN",
         "Lg": "AL",
@@ -6112,7 +6112,7 @@
         "year": "2010"
     },
     {
-        "Name": "Andr\u00e9s\u00a0Torres#",
+        "Name": "Andr\u00e9s\u00a0Torres",
         "Age": "32",
         "Tm": "SFG",
         "Lg": "NL",
@@ -6304,7 +6304,7 @@
         "year": "2011"
     },
     {
-        "Name": "Michael\u00a0Bourn*",
+        "Name": "Michael\u00a0Bourn",
         "Age": "28",
         "Tm": "TOT",
         "Lg": "NL",
@@ -6336,7 +6336,7 @@
         "year": "2011"
     },
     {
-        "Name": "Melky\u00a0Cabrera#",
+        "Name": "Melky\u00a0Cabrera",
         "Age": "26",
         "Tm": "KCR",
         "Lg": "AL",
@@ -6368,7 +6368,7 @@
         "year": "2011"
     },
     {
-        "Name": "Coco\u00a0Crisp#",
+        "Name": "Coco\u00a0Crisp",
         "Age": "31",
         "Tm": "OAK",
         "Lg": "AL",
@@ -6400,7 +6400,7 @@
         "year": "2011"
     },
     {
-        "Name": "Jacoby\u00a0Ellsbury*",
+        "Name": "Jacoby\u00a0Ellsbury",
         "Age": "27",
         "Tm": "BOS",
         "Lg": "AL",
@@ -6432,7 +6432,7 @@
         "year": "2011"
     },
     {
-        "Name": "Dexter\u00a0Fowler#",
+        "Name": "Dexter\u00a0Fowler",
         "Age": "25",
         "Tm": "COL",
         "Lg": "NL",
@@ -6464,7 +6464,7 @@
         "year": "2011"
     },
     {
-        "Name": "Curtis\u00a0Granderson*",
+        "Name": "Curtis\u00a0Granderson",
         "Age": "30",
         "Tm": "NYY",
         "Lg": "AL",
@@ -6528,7 +6528,7 @@
         "year": "2011"
     },
     {
-        "Name": "Jon\u00a0Jay*",
+        "Name": "Jon\u00a0Jay",
         "Age": "26",
         "Tm": "STL",
         "Lg": "NL",
@@ -6688,7 +6688,7 @@
         "year": "2011"
     },
     {
-        "Name": "\u00c1ngel\u00a0Pag\u00e1n#",
+        "Name": "\u00c1ngel\u00a0Pag\u00e1n",
         "Age": "29",
         "Tm": "NYM",
         "Lg": "NL",
@@ -6720,7 +6720,7 @@
         "year": "2011"
     },
     {
-        "Name": "Colby\u00a0Rasmus*",
+        "Name": "Colby\u00a0Rasmus",
         "Age": "24",
         "Tm": "TOT",
         "Lg": "MLB",
@@ -6912,7 +6912,7 @@
         "year": "2011"
     },
     {
-        "Name": "Michael\u00a0Bourn*",
+        "Name": "Michael\u00a0Bourn",
         "Age": "29",
         "Tm": "ATL",
         "Lg": "NL",
@@ -6944,7 +6944,7 @@
         "year": "2012"
     },
     {
-        "Name": "Michael\u00a0Brantley*",
+        "Name": "Michael\u00a0Brantley",
         "Age": "25",
         "Tm": "CLE",
         "Lg": "AL",
@@ -6976,7 +6976,7 @@
         "year": "2012"
     },
     {
-        "Name": "Coco\u00a0Crisp#",
+        "Name": "Coco\u00a0Crisp",
         "Age": "32",
         "Tm": "OAK",
         "Lg": "AL",
@@ -7008,7 +7008,7 @@
         "year": "2012"
     },
     {
-        "Name": "Alejandro\u00a0De\u00a0Aza*",
+        "Name": "Alejandro\u00a0De\u00a0Aza",
         "Age": "28",
         "Tm": "CHW",
         "Lg": "AL",
@@ -7040,7 +7040,7 @@
         "year": "2012"
     },
     {
-        "Name": "Dexter\u00a0Fowler#",
+        "Name": "Dexter\u00a0Fowler",
         "Age": "26",
         "Tm": "COL",
         "Lg": "NL",
@@ -7072,7 +7072,7 @@
         "year": "2012"
     },
     {
-        "Name": "Curtis\u00a0Granderson*",
+        "Name": "Curtis\u00a0Granderson",
         "Age": "31",
         "Tm": "NYY",
         "Lg": "AL",
@@ -7104,7 +7104,7 @@
         "year": "2012"
     },
     {
-        "Name": "Josh\u00a0Hamilton*",
+        "Name": "Josh\u00a0Hamilton",
         "Age": "31",
         "Tm": "TEX",
         "Lg": "AL",
@@ -7136,7 +7136,7 @@
         "year": "2012"
     },
     {
-        "Name": "Bryce\u00a0Harper*",
+        "Name": "Bryce\u00a0Harper",
         "Age": "19",
         "Tm": "WSN",
         "Lg": "NL",
@@ -7200,7 +7200,7 @@
         "year": "2012"
     },
     {
-        "Name": "Jon\u00a0Jay*",
+        "Name": "Jon\u00a0Jay",
         "Age": "27",
         "Tm": "STL",
         "Lg": "NL",
@@ -7328,7 +7328,7 @@
         "year": "2012"
     },
     {
-        "Name": "\u00c1ngel\u00a0Pag\u00e1n#",
+        "Name": "\u00c1ngel\u00a0Pag\u00e1n",
         "Age": "30",
         "Tm": "SFG",
         "Lg": "NL",
@@ -7360,7 +7360,7 @@
         "year": "2012"
     },
     {
-        "Name": "Colby\u00a0Rasmus*",
+        "Name": "Colby\u00a0Rasmus",
         "Age": "25",
         "Tm": "TOR",
         "Lg": "AL",
@@ -7392,7 +7392,7 @@
         "year": "2012"
     },
     {
-        "Name": "Michael\u00a0Saunders*",
+        "Name": "Michael\u00a0Saunders",
         "Age": "25",
         "Tm": "SEA",
         "Lg": "AL",
@@ -7424,7 +7424,7 @@
         "year": "2012"
     },
     {
-        "Name": "Denard\u00a0Span*",
+        "Name": "Denard\u00a0Span",
         "Age": "28",
         "Tm": "MIN",
         "Lg": "AL",
@@ -7584,7 +7584,7 @@
         "year": "2012"
     },
     {
-        "Name": "Gr\u00e9gor\u00a0Blanco*",
+        "Name": "Gr\u00e9gor\u00a0Blanco",
         "Age": "29",
         "Tm": "SFG",
         "Lg": "NL",
@@ -7616,7 +7616,7 @@
         "year": "2013"
     },
     {
-        "Name": "Michael\u00a0Bourn*",
+        "Name": "Michael\u00a0Bourn",
         "Age": "30",
         "Tm": "CLE",
         "Lg": "AL",
@@ -7648,7 +7648,7 @@
         "year": "2013"
     },
     {
-        "Name": "Shin-Soo\u00a0Choo*",
+        "Name": "Shin-Soo\u00a0Choo",
         "Age": "30",
         "Tm": "CIN",
         "Lg": "NL",
@@ -7680,7 +7680,7 @@
         "year": "2013"
     },
     {
-        "Name": "Coco\u00a0Crisp#",
+        "Name": "Coco\u00a0Crisp",
         "Age": "33",
         "Tm": "OAK",
         "Lg": "AL",
@@ -7712,7 +7712,7 @@
         "year": "2013"
     },
     {
-        "Name": "Alejandro\u00a0De\u00a0Aza*",
+        "Name": "Alejandro\u00a0De\u00a0Aza",
         "Age": "29",
         "Tm": "CHW",
         "Lg": "AL",
@@ -7744,7 +7744,7 @@
         "year": "2013"
     },
     {
-        "Name": "Jacoby\u00a0Ellsbury*",
+        "Name": "Jacoby\u00a0Ellsbury",
         "Age": "29",
         "Tm": "BOS",
         "Lg": "AL",
@@ -7776,7 +7776,7 @@
         "year": "2013"
     },
     {
-        "Name": "Andre\u00a0Ethier*",
+        "Name": "Andre\u00a0Ethier",
         "Age": "31",
         "Tm": "LAD",
         "Lg": "NL",
@@ -7808,7 +7808,7 @@
         "year": "2013"
     },
     {
-        "Name": "Brett\u00a0Gardner*",
+        "Name": "Brett\u00a0Gardner",
         "Age": "29",
         "Tm": "NYY",
         "Lg": "AL",
@@ -7904,7 +7904,7 @@
         "year": "2013"
     },
     {
-        "Name": "Jon\u00a0Jay*",
+        "Name": "Jon\u00a0Jay",
         "Age": "28",
         "Tm": "STL",
         "Lg": "NL",
@@ -8000,7 +8000,7 @@
         "year": "2013"
     },
     {
-        "Name": "Leonys\u00a0Mart\u00edn*",
+        "Name": "Leonys\u00a0Mart\u00edn",
         "Age": "25",
         "Tm": "TEX",
         "Lg": "AL",
@@ -8064,7 +8064,7 @@
         "year": "2013"
     },
     {
-        "Name": "Denard\u00a0Span*",
+        "Name": "Denard\u00a0Span",
         "Age": "29",
         "Tm": "WSN",
         "Lg": "NL",
@@ -8160,7 +8160,7 @@
         "year": "2014"
     },
     {
-        "Name": "Coco\u00a0Crisp#",
+        "Name": "Coco\u00a0Crisp",
         "Age": "34",
         "Tm": "OAK",
         "Lg": "AL",
@@ -8192,7 +8192,7 @@
         "year": "2014"
     },
     {
-        "Name": "Adam\u00a0Eaton*",
+        "Name": "Adam\u00a0Eaton",
         "Age": "25",
         "Tm": "CHW",
         "Lg": "AL",
@@ -8224,7 +8224,7 @@
         "year": "2014"
     },
     {
-        "Name": "Jacoby\u00a0Ellsbury*",
+        "Name": "Jacoby\u00a0Ellsbury",
         "Age": "30",
         "Tm": "NYY",
         "Lg": "AL",
@@ -8256,7 +8256,7 @@
         "year": "2014"
     },
     {
-        "Name": "Dexter\u00a0Fowler#",
+        "Name": "Dexter\u00a0Fowler",
         "Age": "28",
         "Tm": "HOU",
         "Lg": "AL",
@@ -8448,7 +8448,7 @@
         "year": "2014"
     },
     {
-        "Name": "Leonys\u00a0Mart\u00edn*",
+        "Name": "Leonys\u00a0Mart\u00edn",
         "Age": "26",
         "Tm": "TEX",
         "Lg": "AL",
@@ -8544,7 +8544,7 @@
         "year": "2014"
     },
     {
-        "Name": "Ben\u00a0Revere*",
+        "Name": "Ben\u00a0Revere",
         "Age": "26",
         "Tm": "PHI",
         "Lg": "NL",
@@ -8576,7 +8576,7 @@
         "year": "2014"
     },
     {
-        "Name": "Denard\u00a0Span*",
+        "Name": "Denard\u00a0Span",
         "Age": "30",
         "Tm": "WSN",
         "Lg": "NL",
@@ -8704,7 +8704,7 @@
         "year": "2015"
     },
     {
-        "Name": "Charlie\u00a0Blackmon*",
+        "Name": "Charlie\u00a0Blackmon",
         "Age": "28",
         "Tm": "COL",
         "Lg": "NL",
@@ -8736,7 +8736,7 @@
         "year": "2015"
     },
     {
-        "Name": "Billy\u00a0Burns#",
+        "Name": "Billy\u00a0Burns",
         "Age": "25",
         "Tm": "OAK",
         "Lg": "AL",
@@ -8800,7 +8800,7 @@
         "year": "2015"
     },
     {
-        "Name": "Adam\u00a0Eaton*",
+        "Name": "Adam\u00a0Eaton",
         "Age": "26",
         "Tm": "CHW",
         "Lg": "AL",
@@ -8832,7 +8832,7 @@
         "year": "2015"
     },
     {
-        "Name": "Dexter\u00a0Fowler#",
+        "Name": "Dexter\u00a0Fowler",
         "Age": "29",
         "Tm": "CHC",
         "Lg": "NL",
@@ -8864,7 +8864,7 @@
         "year": "2015"
     },
     {
-        "Name": "Anthony\u00a0Gose*",
+        "Name": "Anthony\u00a0Gose",
         "Age": "24",
         "Tm": "DET",
         "Lg": "AL",
@@ -8896,7 +8896,7 @@
         "year": "2015"
     },
     {
-        "Name": "Od\u00fabel\u00a0Herrera*",
+        "Name": "Od\u00fabel\u00a0Herrera",
         "Age": "23",
         "Tm": "PHI",
         "Lg": "NL",
@@ -8992,7 +8992,7 @@
         "year": "2015"
     },
     {
-        "Name": "Kevin\u00a0Kiermaier*",
+        "Name": "Kevin\u00a0Kiermaier",
         "Age": "25",
         "Tm": "TBR",
         "Lg": "AL",
@@ -9088,7 +9088,7 @@
         "year": "2015"
     },
     {
-        "Name": "\u00c1ngel\u00a0Pag\u00e1n#",
+        "Name": "\u00c1ngel\u00a0Pag\u00e1n",
         "Age": "33",
         "Tm": "SFG",
         "Lg": "NL",
@@ -9120,7 +9120,7 @@
         "year": "2015"
     },
     {
-        "Name": "Joc\u00a0Pederson*",
+        "Name": "Joc\u00a0Pederson",
         "Age": "23",
         "Tm": "LAD",
         "Lg": "NL",
@@ -9280,7 +9280,7 @@
         "year": "2015"
     },
     {
-        "Name": "Charlie\u00a0Blackmon*",
+        "Name": "Charlie\u00a0Blackmon",
         "Age": "29",
         "Tm": "COL",
         "Lg": "NL",
@@ -9312,7 +9312,7 @@
         "year": "2016"
     },
     {
-        "Name": "Jackie\u00a0Bradley\u00a0Jr.*",
+        "Name": "Jackie\u00a0Bradley\u00a0Jr.",
         "Age": "26",
         "Tm": "BOS",
         "Lg": "AL",
@@ -9376,7 +9376,7 @@
         "year": "2016"
     },
     {
-        "Name": "Jacoby\u00a0Ellsbury*",
+        "Name": "Jacoby\u00a0Ellsbury",
         "Age": "32",
         "Tm": "NYY",
         "Lg": "AL",
@@ -9408,7 +9408,7 @@
         "year": "2016"
     },
     {
-        "Name": "Dexter\u00a0Fowler#",
+        "Name": "Dexter\u00a0Fowler",
         "Age": "30",
         "Tm": "CHC",
         "Lg": "NL",
@@ -9440,7 +9440,7 @@
         "year": "2016"
     },
     {
-        "Name": "Od\u00fabel\u00a0Herrera*",
+        "Name": "Od\u00fabel\u00a0Herrera",
         "Age": "24",
         "Tm": "PHI",
         "Lg": "NL",
@@ -9472,7 +9472,7 @@
         "year": "2016"
     },
     {
-        "Name": "Ender\u00a0Inciarte*",
+        "Name": "Ender\u00a0Inciarte",
         "Age": "25",
         "Tm": "ATL",
         "Lg": "NL",
@@ -9536,7 +9536,7 @@
         "year": "2016"
     },
     {
-        "Name": "Leonys\u00a0Mart\u00edn*",
+        "Name": "Leonys\u00a0Mart\u00edn",
         "Age": "28",
         "Tm": "SEA",
         "Lg": "AL",
@@ -9664,7 +9664,7 @@
         "year": "2016"
     },
     {
-        "Name": "Denard\u00a0Span*",
+        "Name": "Denard\u00a0Span",
         "Age": "32",
         "Tm": "SFG",
         "Lg": "NL",
@@ -9728,7 +9728,7 @@
         "year": "2016"
     },
     {
-        "Name": "Charlie\u00a0Blackmon*",
+        "Name": "Charlie\u00a0Blackmon",
         "Age": "30",
         "Tm": "COL",
         "Lg": "NL",
@@ -9760,7 +9760,7 @@
         "year": "2017"
     },
     {
-        "Name": "Jackie\u00a0Bradley\u00a0Jr.*",
+        "Name": "Jackie\u00a0Bradley\u00a0Jr.",
         "Age": "27",
         "Tm": "BOS",
         "Lg": "AL",
@@ -9856,7 +9856,7 @@
         "year": "2017"
     },
     {
-        "Name": "Curtis\u00a0Granderson*",
+        "Name": "Curtis\u00a0Granderson",
         "Age": "36",
         "Tm": "TOT",
         "Lg": "NL",
@@ -9920,7 +9920,7 @@
         "year": "2017"
     },
     {
-        "Name": "Od\u00fabel\u00a0Herrera*",
+        "Name": "Od\u00fabel\u00a0Herrera",
         "Age": "25",
         "Tm": "PHI",
         "Lg": "NL",
@@ -9952,7 +9952,7 @@
         "year": "2017"
     },
     {
-        "Name": "Ender\u00a0Inciarte*",
+        "Name": "Ender\u00a0Inciarte",
         "Age": "26",
         "Tm": "ATL",
         "Lg": "NL",
@@ -10112,7 +10112,7 @@
         "year": "2017"
     },
     {
-        "Name": "Denard\u00a0Span*",
+        "Name": "Denard\u00a0Span",
         "Age": "33",
         "Tm": "SFG",
         "Lg": "NL",
@@ -10176,7 +10176,7 @@
         "year": "2017"
     },
     {
-        "Name": "Christian\u00a0Yelich*",
+        "Name": "Christian\u00a0Yelich",
         "Age": "25",
         "Tm": "MIA",
         "Lg": "NL",
@@ -10208,7 +10208,7 @@
         "year": "2017"
     },
     {
-        "Name": "Charlie\u00a0Blackmon*",
+        "Name": "Charlie\u00a0Blackmon",
         "Age": "31",
         "Tm": "COL",
         "Lg": "NL",
@@ -10240,7 +10240,7 @@
         "year": "2018"
     },
     {
-        "Name": "Jackie\u00a0Bradley\u00a0Jr.*",
+        "Name": "Jackie\u00a0Bradley\u00a0Jr.",
         "Age": "28",
         "Tm": "BOS",
         "Lg": "AL",
@@ -10336,7 +10336,7 @@
         "year": "2018"
     },
     {
-        "Name": "Od\u00fabel\u00a0Herrera*",
+        "Name": "Od\u00fabel\u00a0Herrera",
         "Age": "26",
         "Tm": "PHI",
         "Lg": "NL",
@@ -10368,7 +10368,7 @@
         "year": "2018"
     },
     {
-        "Name": "Aaron\u00a0Hicks#",
+        "Name": "Aaron\u00a0Hicks",
         "Age": "28",
         "Tm": "NYY",
         "Lg": "AL",
@@ -10400,7 +10400,7 @@
         "year": "2018"
     },
     {
-        "Name": "Ender\u00a0Inciarte*",
+        "Name": "Ender\u00a0Inciarte",
         "Age": "27",
         "Tm": "ATL",
         "Lg": "NL",
@@ -10592,7 +10592,7 @@
         "year": "2018"
     },
     {
-        "Name": "Mallex\u00a0Smith*",
+        "Name": "Mallex\u00a0Smith",
         "Age": "25",
         "Tm": "TBR",
         "Lg": "AL",
@@ -10720,7 +10720,7 @@
         "year": "2019"
     },
     {
-        "Name": "Jackie\u00a0Bradley\u00a0Jr.*",
+        "Name": "Jackie\u00a0Bradley\u00a0Jr.",
         "Age": "29",
         "Tm": "BOS",
         "Lg": "AL",
@@ -10784,7 +10784,7 @@
         "year": "2019"
     },
     {
-        "Name": "Leury\u00a0Garc\u00eda#",
+        "Name": "Leury\u00a0Garc\u00eda",
         "Age": "28",
         "Tm": "CHW",
         "Lg": "AL",
@@ -10816,7 +10816,7 @@
         "year": "2019"
     },
     {
-        "Name": "Brett\u00a0Gardner*",
+        "Name": "Brett\u00a0Gardner",
         "Age": "35",
         "Tm": "NYY",
         "Lg": "AL",
@@ -10976,7 +10976,7 @@
         "year": "2019"
     },
     {
-        "Name": "Mallex\u00a0Smith*",
+        "Name": "Mallex\u00a0Smith",
         "Age": "26",
         "Tm": "SEA",
         "Lg": "AL",
@@ -11136,7 +11136,7 @@
         "year": "2021"
     },
     {
-        "Name": "Trent\u00a0Grisham*",
+        "Name": "Trent\u00a0Grisham",
         "Age": "24",
         "Tm": "SDP",
         "Lg": "NL",
@@ -11200,7 +11200,7 @@
         "year": "2021"
     },
     {
-        "Name": "Cedric\u00a0Mullins*",
+        "Name": "Cedric\u00a0Mullins",
         "Age": "26",
         "Tm": "BAL",
         "Lg": "AL",
@@ -11232,7 +11232,7 @@
         "year": "2021"
     },
     {
-        "Name": "Bryan\u00a0Reynolds#",
+        "Name": "Bryan\u00a0Reynolds",
         "Age": "26",
         "Tm": "PIT",
         "Lg": "NL",
@@ -11328,7 +11328,7 @@
         "year": "2021"
     },
     {
-        "Name": "Cody\u00a0Bellinger*",
+        "Name": "Cody\u00a0Bellinger",
         "Age": "26",
         "Tm": "LAD",
         "Lg": "NL",
@@ -11360,7 +11360,7 @@
         "year": "2022"
     },
     {
-        "Name": "Trent\u00a0Grisham*",
+        "Name": "Trent\u00a0Grisham",
         "Age": "25",
         "Tm": "SDP",
         "Lg": "NL",
@@ -11424,7 +11424,7 @@
         "year": "2022"
     },
     {
-        "Name": "Cedric\u00a0Mullins*",
+        "Name": "Cedric\u00a0Mullins",
         "Age": "27",
         "Tm": "BAL",
         "Lg": "AL",
@@ -11456,7 +11456,7 @@
         "year": "2022"
     },
     {
-        "Name": "Brandon\u00a0Nimmo*",
+        "Name": "Brandon\u00a0Nimmo",
         "Age": "29",
         "Tm": "NYM",
         "Lg": "NL",
@@ -11488,7 +11488,7 @@
         "year": "2022"
     },
     {
-        "Name": "Bryan\u00a0Reynolds#",
+        "Name": "Bryan\u00a0Reynolds",
         "Age": "27",
         "Tm": "PIT",
         "Lg": "NL",
@@ -11584,7 +11584,7 @@
         "year": "2022"
     },
     {
-        "Name": "TJ\u00a0Friedl*",
+        "Name": "TJ\u00a0Friedl",
         "Age": "27",
         "Tm": "CIN",
         "Lg": "NL",
@@ -11616,7 +11616,7 @@
         "year": "2023"
     },
     {
-        "Name": "Trent\u00a0Grisham*",
+        "Name": "Trent\u00a0Grisham",
         "Age": "26",
         "Tm": "SDP",
         "Lg": "NL",
@@ -11648,7 +11648,7 @@
         "year": "2023"
     },
     {
-        "Name": "Michael\u00a0Harris\u00a0II*",
+        "Name": "Michael\u00a0Harris\u00a0II",
         "Age": "22",
         "Tm": "ATL",
         "Lg": "NL",
@@ -11680,7 +11680,7 @@
         "year": "2023"
     },
     {
-        "Name": "Brandon\u00a0Nimmo*",
+        "Name": "Brandon\u00a0Nimmo",
         "Age": "30",
         "Tm": "NYM",
         "Lg": "NL",
@@ -11712,7 +11712,7 @@
         "year": "2023"
     },
     {
-        "Name": "Lars\u00a0Nootbaar*",
+        "Name": "Lars\u00a0Nootbaar",
         "Age": "25",
         "Tm": "STL",
         "Lg": "NL",
@@ -11744,7 +11744,7 @@
         "year": "2023"
     },
     {
-        "Name": "James\u00a0Outman*",
+        "Name": "James\u00a0Outman",
         "Age": "26",
         "Tm": "LAD",
         "Lg": "NL",
@@ -11872,7 +11872,7 @@
         "year": "2023"
     },
     {
-        "Name": "Jack\u00a0Suwinski*",
+        "Name": "Jack\u00a0Suwinski",
         "Age": "24",
         "Tm": "PIT",
         "Lg": "NL",
@@ -11904,7 +11904,7 @@
         "year": "2023"
     },
     {
-        "Name": "Leody\u00a0Taveras#",
+        "Name": "Leody\u00a0Taveras",
         "Age": "24",
         "Tm": "TEX",
         "Lg": "AL",
