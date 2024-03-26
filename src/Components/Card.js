@@ -24,6 +24,7 @@
 import { useState, useEffect, useRef } from "react";
 import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
+import "./Card.css";
 
 function Card({ positionData, randomPositionIndex, position, positionNames }) {
   const [show, setShow] = useState(false);
@@ -41,7 +42,9 @@ function Card({ positionData, randomPositionIndex, position, positionNames }) {
 
   return (
     <>
-      <button onClick={handleShow}>{position}</button>
+      <button className="clicker" onClick={handleShow}>
+        {position}
+      </button>
 
       <Modal
         show={show}

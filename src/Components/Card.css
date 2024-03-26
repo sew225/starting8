@@ -1,0 +1,32 @@
+
+
+.clicker{
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 2px 1px;
+    cursor: pointer;
+    margin-top: 0px;
+    -moz-box-shadow: 0px 0px 4px 1px grey;
+    -webkit-box-shadow: 0px 0px 4px 1px grey;
+    box-shadow: 0px 0px 4px 1px  grey;
+    transition-duration: 0.4s;
+
+}
+.clicker:hover {
+    background-color: #04AA6D; /* Green */
+    color: black;
+}
+
+.clicker:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+  
+  

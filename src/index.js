@@ -26,14 +26,16 @@ import reportWebVitals from "./reportWebVitals";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <Catcher catcherData={catcherData} />
-    <FirstBase firstbaseData={firstbaseData} />
-    <SecondBase secondbaseData={secondbaseData} />
-    <ThirdBase thirdbaseData={thirdbaseData} />
-    <ShortStop shortstopData={shortstopData} />
-    <LeftField leftfieldData={leftfieldData} />
-    <CenterField centerfieldData={centerfieldData} />
-    <RightField rightfieldData={rightfieldData} />
+    <div className="App">
+      <Catcher catcherData={catcherData} />
+      <FirstBase firstbaseData={firstbaseData} />
+      <SecondBase secondbaseData={secondbaseData} />
+      <ThirdBase thirdbaseData={thirdbaseData} />
+      <ShortStop shortstopData={shortstopData} />
+      <LeftField leftfieldData={leftfieldData} />
+      <CenterField centerfieldData={centerfieldData} />
+      <RightField rightfieldData={rightfieldData} />
+    </div>
   </React.StrictMode>
 );
 

@@ -1,8 +1,30 @@
 .App {
-  text-align: center;
+  background-color: rgba(50, 183, 87, 0.392);
+  position: relative;
+  background-size: cover;
+  /* background-image: url("./images/field.jpeg"); Background image of the baseball field */
 }
 
-.App-logo {
+.cardContainer {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+
+}
+
+
+
+.catcher{
+
+}
+
+.second-base {
+}
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -39,4 +61,4 @@
 
 #card{
   text-align: center;
-}
+} */

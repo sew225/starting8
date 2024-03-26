@@ -20,8 +20,6 @@ import leftfieldNames from "./data/positions/names/left_field_names.json";
 import centerfieldNames from "./data/positions/names/center_field_names.json";
 import rightfieldNames from "./data/positions/names/right_field_names.json";
 
-import Modal from "react-modal";
-import ReactDOM from "react-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import Card from "./Components/Card.js";
@@ -39,13 +37,15 @@ let randomRightLeftIndex = randomNumber(rightfieldData);
 
 function Catcher({ catcherData }) {
   return (
-    <div className="App">
-      <Card
-        position="Catcher"
-        positionData={catcherData}
-        randomPositionIndex={randomCatcherIndex}
-        positionNames={catcherNames}
-      />
+    <div className="cardContainer">
+      <div className="catcher">
+        <Card
+          position="Catcher"
+          positionData={catcherData}
+          randomPositionIndex={randomCatcherIndex}
+          positionNames={catcherNames}
+        />
+      </div>
     </div>
   );
 }
@@ -54,13 +54,15 @@ function FirstBase({ firstbaseData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (
-    <div className="App">
-      <Card
-        position="First Base"
-        positionData={firstbaseData}
-        randomPositionIndex={randomFirstBaseIndex}
-        positionNames={firstbaseNames}
-      />
+    <div className="cardContainer">
+      <div className="first-base">
+        <Card
+          position="First Base"
+          positionData={firstbaseData}
+          randomPositionIndex={randomFirstBaseIndex}
+          positionNames={firstbaseNames}
+        />
+      </div>
     </div>
   );
 }
@@ -68,13 +70,15 @@ function SecondBase({ secondbaseData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (
-    <div className="App">
-      <Card
-        position="Second Base"
-        positionData={secondbaseData}
-        randomPositionIndex={randomSecondBaseIndex}
-        positionNames={secondbaseNames}
-      />
+    <div className="cardContainer">
+      <div className="second-base">
+        <Card
+          position="Second Base"
+          positionData={secondbaseData}
+          randomPositionIndex={randomSecondBaseIndex}
+          positionNames={secondbaseNames}
+        />
+      </div>
     </div>
   );
 }
@@ -83,13 +87,15 @@ function ThirdBase({ thirdbaseData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (
-    <div className="App">
-      <Card
-        position="Third Base"
-        positionData={thirdbaseData}
-        randomPositionIndex={randomThirdBaseIndex}
-        positionNames={thirdbaseNames}
-      />
+    <div className="cardContainer">
+      <div className="third-base">
+        <Card
+          position="Third Base"
+          positionData={thirdbaseData}
+          randomPositionIndex={randomThirdBaseIndex}
+          positionNames={thirdbaseNames}
+        />
+      </div>
     </div>
   );
 }
@@ -98,13 +104,15 @@ function ShortStop({ shortstopData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (
-    <div className="App">
-      <Card
-        position="Shortstop"
-        positionData={shortstopData}
-        randomPositionIndex={randomShortStopIndex}
-        positionNames={shortstopNames}
-      />
+    <div className="cardContainer">
+      <div className="shortstop">
+        <Card
+          position="Shortstop"
+          positionData={shortstopData}
+          randomPositionIndex={randomShortStopIndex}
+          positionNames={shortstopNames}
+        />
+      </div>
     </div>
   );
 }
@@ -113,13 +121,15 @@ function LeftField({ leftfieldData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (
-    <div className="App">
-      <Card
-        position="Left Field"
-        positionData={leftfieldData}
-        randomPositionIndex={randomLeftFieldIndex}
-        positionNames={leftfieldNames}
-      />
+    <div className="cardContainer">
+      <div className="left-field">
+        <Card
+          position="Left Field"
+          positionData={leftfieldData}
+          randomPositionIndex={randomLeftFieldIndex}
+          positionNames={leftfieldNames}
+        />
+      </div>
     </div>
   );
 }
@@ -128,13 +138,15 @@ function CenterField({ centerfieldData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (
-    <div className="App">
-      <Card
-        position="Center Field"
-        positionData={centerfieldData}
-        randomPositionIndex={randomCenterFieldIndex}
-        positionNames={centerfieldNames}
-      />
+    <div className="cardContainer">
+      <div className="center-field">
+        <Card
+          position="Center Field"
+          positionData={centerfieldData}
+          randomPositionIndex={randomCenterFieldIndex}
+          positionNames={centerfieldNames}
+        />
+      </div>
     </div>
   );
 }
@@ -143,13 +155,15 @@ function RightField({ rightfieldData }) {
   const [modalOpen, setModalOpen] = useState(false);
 
   return (
-    <div className="App">
-      <Card
-        position="Right Field"
-        positionData={rightfieldData}
-        randomPositionIndex={randomRightLeftIndex}
-        positionNames={rightfieldNames}
-      />
+    <div className="cardContainer">
+      <div className="right-field">
+        <Card
+          position="Right Field"
+          positionData={rightfieldData}
+          randomPositionIndex={randomRightLeftIndex}
+          positionNames={rightfieldNames}
+        />
+      </div>
     </div>
   );
 }
